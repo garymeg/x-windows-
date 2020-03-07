@@ -1,0 +1,16 @@
+T:Herobotix
+X:64,pal,sid6581
+D:en:Control a droid named Herobot to collect six parts of a large particle destroyer from around an enemy base, shooting other ASP droids, pressing switches then reaching the exit room with a large door that leads to the main computer. Log in to the computer and download vital data before returning to the docking bay to escape.
+D:fr:Vous contrôlez un droide appelé Herobot et vous devez ramasser six parties d’un destructeur de particules sur une base ennemie, en tirant sur les autres droides ASP, en activant des interrupteurs pour aller dans la dernière pièce qui mène à l’ordinateur principal. Connectez-vous et téléchargez les données vitales avant de regagner le quai d’amarrage pour vous échapper.
+D:de:Steuer einen Droiden namens Herobot, um sechs Teile eines großen Partikelzerstörers einer feindlichen Basis einzusammeln. Schieße auf andere ASP Droiden, drücke Sicherung und erreiche den Ausgang des Raums mit einer großen Tür, die zum Hauptcomputer führt. Logge Dich in den Computer ein und lade wichtige Daten herunter, bevor Du zur Docking-Station zurück kehrst, um zu entkommen.
+D:es:Controla a un androide llamado Herebot para que recoja seis piezas de un gran destructor de partículas en una base enemiga, disparando a otros androides ASP, presionando interruptores y a continuación llegando a la sala de salida que tiene una gran puerta que conduce al ordenador principal. Inicia la sesión del ordenador y descarga la información necesaria antes de regresar al muelle de la bahía para escapar.
+D:it:Guida un droide di nome Herobot nella ricerca di sei componenti di un distruttore di particelle, disseminati per la base nemica, sparando altri droidi ASP, azionando interruttori e raggiungendo l’uscita tramite un grande portale che porta al computer principale. Accedi al sistema e scarica i dati vitali prima di ritornare alla tua nave e scappa.
+A:Steven Collins
+M:Nigel Grieve
+E:maze
+Y:1987
+F:games/HEROBOTIX.vsf.gz
+C:covers/HEROBOTIX-cover.png
+G:screens/HEROBOTIX-01.png
+G:screens/HEROBOTIX-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,F3,F7,JF,,

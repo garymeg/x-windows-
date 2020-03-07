@@ -1,0 +1,17 @@
+T:Bounces
+X:64,pal,sid6581
+D:en:Bounces is a futuristic sports game. Two players compete against each other in order to earn points. The winner is simply the player with the most points at the end. Each player is attached to their side of the screen by a wire, the game consists of two halves of 90 seconds each, one from each side of the screen. To earn points you have to knock the other player down, either with characters fists or with the ball.
+D:fr:Bounces is a futuristic sports game. Two players compete against each other in order to earn points. The winner is simply the player with the most points at the end. Each player is attached to their side of the screen by a wire, the game consists of two halves of 90 seconds each, one from each side of the screen. To earn points you have to knock the other player down, either with characters fists or with the ball.
+D:de:Bounces is a futuristic sports game. Two players compete against each other in order to earn points. The winner is simply the player with the most points at the end. Each player is attached to their side of the screen by a wire, the game consists of two halves of 90 seconds each, one from each side of the screen. To earn points you have to knock the other player down, either with characters fists or with the ball.
+D:es:Bounces is a futuristic sports game. Two players compete against each other in order to earn points. The winner is simply the player with the most points at the end. Each player is attached to their side of the screen by a wire, the game consists of two halves of 90 seconds each, one from each side of the screen. To earn points you have to knock the other player down, either with characters fists or with the ball.
+D:it:Bounces è un gioco di sport futuristico. Due giocatori competono uno contro l'altro per guadagnare punti. Il vincitore è semplicemente il giocatore con il maggior numero di punti alla fine del tempo. Ogni giocatore è attaccato al proprio lato dello schermo da un cavo, il gioco consiste in due round di 90 secondi ciascuno, uno da ciascun lato dello schermo. Per guadagnare punti devi abbattere l'altro giocatore, usando i pugni o usando la palla.
+A:Denton Designs
+M:Fred Gray
+E:sport
+Y:1985
+F:games/BOUNCES.vsf.gz
+C:covers/BOUNCES-cover.png
+G:screens/BOUNCES-00.png
+G:screens/BOUNCES-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,F3,F5,JF
+J:1:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,F3,F5,JF

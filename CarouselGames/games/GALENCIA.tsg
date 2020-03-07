@@ -1,0 +1,18 @@
+T:Galencia Mini
+X:64,pal,sid6581
+V:6
+D:en:We didn't listen to the warnings. We decided to ignore the global decline of bees, and now their guardians have arrived. You must pilot the 1981 Galencia Fighter spacecraft and restore order, before it`s too late!
+D:fr:Nous n'avons pas écouté les avertissements. Nous avons décidé d'ignorer le déclin mondial des abeilles et maintenant leurs gardiens sont arrivés. Vous devez piloter le vaisseau spatial Galencia Fighter de 1981 et rétablir l’ordre avant qu’il ne soit trop tard!
+D:de:Wir haben uns die Warnungen nicht angehört. Wir beschlossen, den weltweiten Verfall der Bienen zu ignorieren, und jetzt sind ihre Vormünder eingetroffen. Sie müssen das Galencia Fighter-Raumschiff 1981 steuern und die Reihenfolge wiederherstellen, bevor es zu spät ist!
+D:es:No escuchamos las advertencias. Decidimos ignorar el declive global de las abejas, y ahora han llegado sus guardianes. ¡Debes pilotar la nave espacial Galencia Fighter 1981 y restaurar el orden, antes de que sea demasiado tarde!
+D:it:Non abbiamo ascoltato gli avvertimenti. Abbiamo deciso di ignorare il declino globale delle api e ora sono arrivati i loro guardiani. Devi pilotare la navicella F1981 Galencia Fighter e ripristinare l'ordine, prima che sia troppo tardi!
+A:Jason Aldred
+A:Saul Cross
+M:Pulsebot
+E:shoot
+Y:2017
+F:games/GALENCIA.vsf.gz
+C:covers/GALENCIA-cover.png
+G:screens/GALENCIA-01.png
+G:screens/GALENCIA-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,F1,JF,,SP,,JF,,

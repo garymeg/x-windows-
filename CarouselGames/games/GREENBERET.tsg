@@ -1,0 +1,16 @@
+T:Green Beret
+X:64,pal,sid6581
+D:en:The player needs to steer a figure of an American soldier through four levels and free prisoners of war. On the way to the destination you meet numerous enemies which you are not allowed to touch because you would lose a life. As enemies are constantly coming in from the left and right, you should try to finish the level as soon as possible as the difficulty grade is enormously high. Also, you cannot stay at a place for too long as then a jet appears and bombs you.
+D:fr:The player needs to steer a figure of an American soldier through four levels and free prisoners of war. On the way to the destination you meet numerous enemies which you are not allowed to touch because you would lose a life. As enemies are constantly coming in from the left and right, you should try to finish the level as soon as possible as the difficulty grade is enormously high. Also, you cannot stay at a place for too long as then a jet appears and bombs you.
+D:de:The player needs to steer a figure of an American soldier through four levels and free prisoners of war. On the way to the destination you meet numerous enemies which you are not allowed to touch because you would lose a life. As enemies are constantly coming in from the left and right, you should try to finish the level as soon as possible as the difficulty grade is enormously high. Also, you cannot stay at a place for too long as then a jet appears and bombs you.
+D:es:The player needs to steer a figure of an American soldier through four levels and free prisoners of war. On the way to the destination you meet numerous enemies which you are not allowed to touch because you would lose a life. As enemies are constantly coming in from the left and right, you should try to finish the level as soon as possible as the difficulty grade is enormously high. Also, you cannot stay at a place for too long as then a jet appears and bombs you.
+D:it:Il giocatore dovrà guidare un soldato americano attraverso quattro livelli e liberare i prigionieri di guerra. Sulla strada incontrerà numerosi nemici che non dovranno riuscire a toccarti o perderai una vita. Poiché i nemici arrivano costantemente da sinistra e da destra, dovrai cercare di completare il livello il prima possibile, dato che il grado di difficoltà è enormemente alto. Inoltre non restare in un posto troppo a lungo altrimenti un jet appare e ti bombarda.
+A:Dave A. Collier
+M:Martin Galway
+E:platform
+Y:1985
+F:games/GREENBERET.vsf.gz
+C:covers/GREENBERET-cover.png
+G:screens/GREENBERET-00.png
+G:screens/GREENBERET-01.png
+J:2*:JU,JD,JL,JR,JF,JF,SP,SP,SP,,,,SP

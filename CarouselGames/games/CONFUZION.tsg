@@ -1,0 +1,16 @@
+T:Confuzion
+X:64,pal,sid6581
+D:en:Explode every confuzion bomb in an industrial plant across 64 factory levels, with eight sections on eight floors. You have access to the first level of each of the first six sections. Guide the burning fuze to each bomb by sliding the pallets used to move the bomb components. Some sections have factory sprinklers to extinguish the fuze.
+D:fr:Explosez toutes les bombes de l’usine sur les 64 niveaux existants, avec huit ensembles sur huit niveaux. Vous avez accès au premier niveau des six premiers ensembles. Guidez la mèche enflammée vers chaque bombe. Certains ensembles ont des extincteurs industriels et éteignent les mèches.
+D:de:Bringe jede „Confuzions-Bombe“ in eine der Industrieanlagen in 64 Level zur Explosion, mit jeweils acht Bereichen auf acht Etagen. Du hast Zugriff auf das erste Level in jedem der ersten sechs Bereiche. Führe den brennenden Zünder für jede Bombe durch Schieben der Paletten, um die Komponenten der Bombe zu bewegen. Einige Bereiche haben Sprinkleranlagen, die den Zünder löschen können.
+D:es:Explota cada bomba confuzion de una planta industrial a través de los 64 niveles de la fábrica, con ocho secciones en ocho plantas. Tienes acceso al primer nivel de cada una de las primeras seis secciones. Lleva la mecha encendida a cada bomba deslizando los palés utilizados para mover los componentes de la bomba. Algunas secciones tienen aspersores para apagar la mecha.
+D:it:Fai brillare tutte le bombe nelle centrali industriali in questi 64 livelli, con otto sezioni su otto piani. Avrai accesso al primo livello di ciascuna delle prime sei sezioni. Guida il detonatore verso la bomba, facendolo scivolare sui bancali utilizzati per spostare i componenti della bomba stessa. Alcune sezioni sono dotate di sprinkler per spegnere il detonatore.
+A:Paul Shirley
+M:Rob Hubbard
+E:puzzle
+Y:1985
+F:games/CONFUZION.vsf.gz
+C:covers/CONFUZION-cover.png
+G:screens/CONFUZION-01.png
+G:screens/CONFUZION-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,SP,JF,I,P,M,JF,,

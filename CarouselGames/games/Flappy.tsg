@@ -1,0 +1,17 @@
+T:Flappy Bird
+X:64,pal,sid6581
+D:en:Just when you thought the Flappy Bird craze was over and it had appeared on every platform you could possibly own, another version has appeared. However, this one is for hardware that’s 32 years old. Yes, Flappy Bird is now playable on a Commodore 64. Independent game developer SoS Sosowski already has multiple games to his name and describes himself as “an old generation low-level programmer.” He grew up developing games on the C64, DOS, Windows, then Flash, so going back to the C64 wasn’t going to be a problem.
+D:fr:Just when you thought the Flappy Bird craze was over and it had appeared on every platform you could possibly own, another version has appeared. However, this one is for hardware that’s 32 years old. Yes, Flappy Bird is now playable on a Commodore 64. Independent game developer SoS Sosowski already has multiple games to his name and describes himself as “an old generation low-level programmer.” He grew up developing games on the C64, DOS, Windows, then Flash, so going back to the C64 wasn’t going to be a problem.
+D:de:Just when you thought the Flappy Bird craze was over and it had appeared on every platform you could possibly own, another version has appeared. However, this one is for hardware that’s 32 years old. Yes, Flappy Bird is now playable on a Commodore 64. Independent game developer SoS Sosowski already has multiple games to his name and describes himself as “an old generation low-level programmer.” He grew up developing games on the C64, DOS, Windows, then Flash, so going back to the C64 wasn’t going to be a problem.
+D:es:Just when you thought the Flappy Bird craze was over and it had appeared on every platform you could possibly own, another version has appeared. However, this one is for hardware that’s 32 years old. Yes, Flappy Bird is now playable on a Commodore 64. Independent game developer SoS Sosowski already has multiple games to his name and describes himself as “an old generation low-level programmer.” He grew up developing games on the C64, DOS, Windows, then Flash, so going back to the C64 wasn’t going to be a problem.
+D:it:Just when you thought the Flappy Bird craze was over and it had appeared on every platform you could possibly own, another version has appeared. However, this one is for hardware that’s 32 years old. Yes, Flappy Bird is now playable on a Commodore 64. Independent game developer SoS Sosowski already has multiple games to his name and describes himself as “an old generation low-level programmer.” He grew up developing games on the C64, DOS, Windows, then Flash, so going back to the C64 wasn’t going to be a problem.
+A:SoS Sosowski
+M:SoS Sosowski
+E:Anoying
+Y:2016
+F:games/Flappy.vsf.gz
+C:covers/Flappy.png
+G:screens/Flappy-00.png
+G:screens/Flappy-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,F1,JF,F2,F3,F4,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,F1,JF,F2,F3,F4,JF,,

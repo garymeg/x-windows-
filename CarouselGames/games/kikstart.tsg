@@ -1,0 +1,17 @@
+T:Kikstart
+X:64,pal,sid6581
+D:en:It’s kikstart 
+D:fr:
+D:de:
+D:es:
+D:it:
+A:Unkown
+M:Unkown
+E:Unkown
+Y:Unkown
+F:games/kikstart.vsf.gz
+C:covers/kikstart.png
+G:screens/kikstart-00.png
+G:screens/kikstart-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,F1,JF,F2,F3,F4,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,F1,JF,F2,F3,F4,JF,,

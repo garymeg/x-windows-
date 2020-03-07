@@ -1,0 +1,18 @@
+T:Summer Games II
+X:64,ntsc,sid6581
+D:en:Experience the excitement and realism of eight events: cycling, equestrian, fencing, high jump, javelin, kayaking, rowing and triple jump. Practice each event first to sharpen your skills, then choose your name, your country to represent and let the games begin. Try to win gold in every event, second place gets silver and third gets bronze.
+D:fr:Essayez-vous à la joie et au réalisme de huit compétitions : cyclisme, équitation, escrime, saut en hauteur, javelot, kayak, aviron et triple saut. Entraînez-vous pour maîtriser votre art, choisissez ensuite votre nom, votre pays et que les jeux commencent. Visez la médaille d’or dans chaque épreuve, la deuxième place donne l’argent et la troisième le bronze.
+D:de:Erlebe Spannung und Realismus in acht Veranstaltungen: Radfahren, Reiten, Fechten, Hochsprung, Speerwerfen, Kajak, Rudern und Dreisprung. Trainiere jede Sportart zuerst, um Deine Fähigkeiten zu verbessern und wähle anschließend Deinen Namen aus, die Nation, die Du repräsentierst und lasse die Spiele beginnen. Versuche auf jedenfall die Goldmedaille zu gewinnen, der zweite Platz erhält Silber und der dritte bekommt die Bronzemedaille.
+D:es:Experimenta la emoción y realismo de ocho eventos: ciclismo, equitación, esgrima, salto de altura, jabalina, kayak, remo y salto triple. Practica primero cada evento para mejorar tus habilidades, y después elije tu nombre, país al que representas y deja que los juegos comiencen. Intenta ganar la medalla de oro en cada evento, el segundo puesto obtendrá la medalla de plata y el tercero la de bronce.
+D:it:Vivi l’emozione e il realismo di otto sport: ciclismo, equitazione, scherma, salto in alto, lancio del giavellotto, kayak, canottaggio e salto triplo. Pratica ciascuno sport per migliorare le tue abilità, poi scegli il tuo nome, il tuo paese e inizia a giocare. Prova a vincere la medaglia d’oro in ogni evento, il secondo posto vale l’argento mentre il terzo il bronzo.
+A:Epyx Games
+M:Bob Vieira
+E:sport
+Y:1985
+F:games/EPYX-GAMES-ntsc-rgl-jp2.crt.gz
+I:1
+C:covers/SUMMER-GAMES-II-cover.png
+G:screens/SUMMER-GAMES-II-01.png
+G:screens/SUMMER-GAMES-II-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,EN,JF,,,,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,EN,JF,,,,JF,,

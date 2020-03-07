@@ -1,0 +1,16 @@
+T:Highway Encounter
+X:64,pal,sid6581
+D:en:Stop the aliens who have invaded Earth. Travel to zone zero and destroy the alien stronghold to defeat them. Under your control are five Vortons and the Lasertron. Take them with you along the highway that leads into zone zero, where the Lasertron will complete its mission and save the world.
+D:fr:Stoppez les extraterrestres qui ont envahi la terre. Allez à la zone zéro et détruisez la forteresse ennemi pour les vaincre. Vous contrôlez cinq Vortons et le Lasertron. Emmenez-les avec vous dans votre quête vers la zone zéro où le Lasertron accomplira sa mission et sauvera le monde.
+D:de:Stopp die Aliens, die auf der Erde eingefallen sind. Um sie zu besiegen, musst Du zu Zone Null reisen und die Alien-Hochburg zerstören. Unter Deiner Kontrolle befinden sich fünf Vortons und ein Lasertron. Nimm sie mit entlang der Autobahn, die Dich zur Zone Null führt, wo Lasertron seine Mission erfüllen wird und die Welt rettet.
+D:es:Detén a los alienígenas que han invadido la Tierra. Viaja a la zona cero y destruye la fortaleza alienígena para derrotarlos. Bajo tu control tienes a cinco Vortons y al Lasertron. Llévalos contigo a lo largo del camino que conduce a la zona cero, donde el Lastertron completará su misión y salvará al mundo.
+D:it:Ferma gli alieni che hanno invaso la Terra. Dirigiti verso la zona zero e distruggi la fortezza aliena per sconfiggerli. Sotto il tuo controllo avrai cinque Vorton e il Laserton. Portali con te lungo la strada che porta alla zona zero, dove il Laserton completerà la missione, salvando il mondo.
+A:Pedigree
+M:Fred Gray
+E:shoot
+Y:1986
+F:games/HIGHWAY-ENCOUNTER.vsf.gz
+C:covers/HIGHWAY-ENCOUNTER-cover.png
+G:screens/HIGHWAY-ENCOUNTER-01.png
+G:screens/HIGHWAY-ENCOUNTER-02.png
+J:2*:JU,JD,JL,JR,JF,JF,5,JF,JF,,,,JF,,

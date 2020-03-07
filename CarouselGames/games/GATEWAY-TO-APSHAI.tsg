@@ -1,0 +1,16 @@
+T:Gateway to Apshai
+X:64,ntsc,truedrive,sid6581
+D:en:Only the chosen one will succeed! Such a hero must find safe passage through the dangerous underground labyrinth of the famed lost Temple of Apshai, exploring each level before the timer runs out. Along the way they will fight terrifying monsters, avoid the most cunning of traps and collect treasure fit for a king. Are you the one to fulfill this destiny?
+D:fr:Seul l'élu survivra ! Un tel héro devra se frayer un chemin dans le terrible labyrinthe souterrain du fameux temple perdu de Apshai, en explorant chaque niveau dans le temps imparti. Chemin faisant, il devra affronter de terribles monstres, éviter les pièges pernicieux, et récolter les trésors dignes d'un roi. Etes-vous l'élu qui réalisera cette destinée?
+D:de:Nur der Auserwählte wird siegen! Ein solcher Held muss die sichere Passage durch ein gefährliches unterirdisches Labyrinth des berühmten verlorenen Tempels von Apshai finden und jedes Level erforschen, bevor die Zeit ausgeht. Auf Deinem Weg wirst Du gegen schreckliche Monster kämpfen, den gerissensten Fallen ausweichen und den passenden Schatz für einen König finden. Bist Du der Richtige, um diese Bestimmung zu erfüllen?
+D:es:¡Solo el elegido tendrá éxito! Este héroe deberá encontrar un pasaje seguro a través del peligroso laberinto subterráneo del famoso y perdido Templo de Apshai, explorando cada nivel antes de que se acabe el tiempo. En el camino luchará contra monstruos terroríficos, evitará las trampas más ingeniosas y recogerá tesoros para un rey. ¿Eres tú el que cumplirá este destino?
+D:it:Solo i prescelti ce la faranno! Solo gli eroi riusciranno a trovare dei passaggi sicuri attraverso i pericolosi labirinti sotterranei del leggendario tempio perduto di Apshai, esplorando tutti i livelli prima che finisca il tempo. Lungo il cammino, combatterai contro mostri terrificanti, eviterai le trappole più diaboliche e collezionerai tesori degni di un re. Sarai tu a portare a termine la missione?
+A:The Connelley Group
+M:The Connelley Group
+E:adventure
+Y:1983
+F:games/GATEWAY-TO-APSHAI.vsf.gz
+C:covers/GATEWAY-TO-APSHAI-cover.png
+G:screens/GATEWAY-TO-APSHAI-01.png
+G:screens/GATEWAY-TO-APSHAI-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F3,F5,F7,JF,,

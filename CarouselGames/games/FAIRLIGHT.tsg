@@ -1,0 +1,16 @@
+T:Fairlight
+X:64,pal,sid6581
+D:en:The player controls an adventurer named Isvar that can be moved in a castle which is not only three-dimensional isometric view, but realistic in terms of the way objects behave. During Isvar's exploration of the castle he is accosted by its guards and monsters - trolls, monks, guards, tornadoes, man-eating plants, bubbles, etc. all of which weaken Isvar's energy. The castle also contains food and magical potions which will restore his health.
+D:fr:The player controls an adventurer named Isvar that can be moved in a castle which is not only three-dimensional isometric view, but realistic in terms of the way objects behave. During Isvar's exploration of the castle he is accosted by its guards and monsters - trolls, monks, guards, tornadoes, man-eating plants, bubbles, etc. all of which weaken Isvar's energy. The castle also contains food and magical potions which will restore his health.
+D:de:The player controls an adventurer named Isvar that can be moved in a castle which is not only three-dimensional isometric view, but realistic in terms of the way objects behave. During Isvar's exploration of the castle he is accosted by its guards and monsters - trolls, monks, guards, tornadoes, man-eating plants, bubbles, etc. all of which weaken Isvar's energy. The castle also contains food and magical potions which will restore his health.
+D:es:The player controls an adventurer named Isvar that can be moved in a castle which is not only three-dimensional isometric view, but realistic in terms of the way objects behave. During Isvar's exploration of the castle he is accosted by its guards and monsters - trolls, monks, guards, tornadoes, man-eating plants, bubbles, etc. all of which weaken Isvar's energy. The castle also contains food and magical potions which will restore his health.
+D:it:Il giocatore controlla un avventuriero di nome Isvar che si trova in un castello che non solo ha una vista isometrica tridimensionale, ma è realistico anche in termini di comportamento degli oggetti. Durante l'esplorazione del castello, Isvar viene avvicinato dalle sue guardie e dai suoi mostri: troll, monaci, guardie, trombe d'aria, piante mangia-uomini, bolle, ecc. che indeboliscono l'energia di Isvar. Il castello contiene anche cibo e pozioni magiche che ripristinano la sua salute.
+A:Trevor Inns, Jack Wilkes
+M:Mike Alsop
+E:adventure
+Y:1986
+F:games/FAIRLIGHT.vsf.gz
+C:covers/FAIRLIGHT-cover.png
+G:screens/FAIRLIGHT-00.png
+G:screens/FAIRLIGHT-01.png
+J:1*:JU,JD,JL,JR,N,N,SR,SR,SR,X,7,SL,SR

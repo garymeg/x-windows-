@@ -1,0 +1,16 @@
+T:Forbidden Forest
+X:64,pal,sid6581
+D:en:In this game the player controls an archer, armed with a bow and a limit of four quivers of arrows per level. The aim is to move through a forest setting while eliminating various monsters, including giant spiders, bees, mutated frogs, dragons, wizards and snakes, with the final enemy being the "Demogorgon". The game has four levels of difficulty (Innocent, Trooper, Daredevil and Crazy) which determine the number and speed of the monsters.
+D:fr:In this game the player controls an archer, armed with a bow and a limit of four quivers of arrows per level. The aim is to move through a forest setting while eliminating various monsters, including giant spiders, bees, mutated frogs, dragons, wizards and snakes, with the final enemy being the "Demogorgon". The game has four levels of difficulty (Innocent, Trooper, Daredevil and Crazy) which determine the number and speed of the monsters.
+D:de:In this game the player controls an archer, armed with a bow and a limit of four quivers of arrows per level. The aim is to move through a forest setting while eliminating various monsters, including giant spiders, bees, mutated frogs, dragons, wizards and snakes, with the final enemy being the "Demogorgon". The game has four levels of difficulty (Innocent, Trooper, Daredevil and Crazy) which determine the number and speed of the monsters.
+D:es:In this game the player controls an archer, armed with a bow and a limit of four quivers of arrows per level. The aim is to move through a forest setting while eliminating various monsters, including giant spiders, bees, mutated frogs, dragons, wizards and snakes, with the final enemy being the "Demogorgon". The game has four levels of difficulty (Innocent, Trooper, Daredevil and Crazy) which determine the number and speed of the monsters.
+D:it:In questo gioco il giocatore controlla un arciere, armato con un arco e un limite di quattro faretre di frecce per livello. L'obiettivo è quello di spostarsi attraverso una foresta infestata eliminando vari mostri, tra cui ragni giganti, api, rane mutanti, draghi, maghi e serpenti, con il "Demogorgone" come nemico finale. Il gioco ha quattro livelli di difficoltà (Innocente, Trooper, Daredevil e Pazzo) che determinano il numero e la velocità dei mostri.
+A:Paul Norman
+M:Paul Norman
+E:shoot
+Y:1983
+F:games/FF.vsf.gz
+C:covers/FF-cover.png
+G:screens/FF-00.png
+G:screens/FF-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,F3,F5,JF

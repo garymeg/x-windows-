@@ -1,0 +1,16 @@
+T:Everyone’s a Wally
+X:64,pal,sid6581
+D:en:Find the safe combination, spread across different locations, to pay the wages. When in the same area, switch to a different character. Wally, Wilma, Tom, Dick and Harry have different abilities. Walk past objects to collect or swap them over. To win, take each number to the safe in the correct order. Avoid anything else that moves, including baby Herbert.
+D:fr:Trouvez la bonne combinaison répartie dans plusieurs endroits pour payer les salaires. Dans une même zone, changez de personnages. Wally, Wilma, Tom, Dick et Harry ont des capacités différentes. Marchez sur les objets pour les ramasser ou les échanger. Pour gagner, apportez chaque numéro au coffre dans le bon ordre. Evitez tout ce qui bouge, même le bébé Hubert.
+D:de:Finde die Kombination vom Safe, verteilt an verschiedenen Standorten, um Löhne zu bezahlen. Wähle einen anderen Charakter aus, falls im selben Bereich. Wally, Wilma, Tom, Dick und Harry haben unterschiedliche Fähigkeiten. Sammle Objekte, oder tausche sie ein. Um zu gewinnen, musst Du die Zahlen der Kombination in richtiger Reihenfolge besitzen. Vermeide alles was sich bewegt, einschließlich Baby Herbert.
+D:es:Encuentra la combinación segura, repartida en diferentes lugares, para pagar los salarios. Cuando estés en la misma área, cambia de personaje. Wally, Wilma, Tom, Dick y Harry tienen diferentes habilidades. Camina por los objetos para recogerlos o intercambiarlos. Para ganar, lleva cada número a la caja fuerte en el orden correcto. Evita cualquier otra cosa que se mueva, incluyendo al bebé Herbert.
+D:it:Trova la combinazione della cassaforte, muoviti in diversi luoghi per poter pagare lo stipendio. Quando vi trovate nella stessa zona, puoi cambiare personaggio. Wally, Wilma, Toma, Dick e Harry hanno abilità diverse. Cammina sugli oggetti per raccoglierli o scambiali. Per vincere, porta i numeri alla cassaforte nel corretto ordine. Evita qualsiasi cosa che si muova, incluso il piccolo Herbert.
+A:Mikro-Gen
+M:Mikro-Gen
+E:adventure
+Y:1985
+F:games/EVERYONES-A-WALLY-2017.vsf.gz
+C:covers/EVERYONES-A-WALLY-cover.png
+G:screens/EVERYONES-A-WALLY-00.png
+G:screens/EVERYONES-A-WALLY-01.png
+J:2*:JU,JD,JL,JR,JF,JF,1,2,JF,3,4,5,JF,,

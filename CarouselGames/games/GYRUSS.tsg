@@ -1,0 +1,16 @@
+T:Gyruss
+X:64,pal,sid6581
+D:en:You have to shoot all the ships you encounter on your way to the next planet. Furthermore, you have to avoid space debris, meteorites (which can even appear unexpectedly at the end of a level) and enemy ships that leave their formation. Your own ship is flying towards the centre of the screen and can be moved around in a circle. After the completion of a level, you warp to the next level. A counter tells you how many warps you still need to reach the next planet.
+D:fr:You have to shoot all the ships you encounter on your way to the next planet. Furthermore, you have to avoid space debris, meteorites (which can even appear unexpectedly at the end of a level) and enemy ships that leave their formation. Your own ship is flying towards the centre of the screen and can be moved around in a circle. After the completion of a level, you warp to the next level. A counter tells you how many warps you still need to reach the next planet.
+D:de:You have to shoot all the ships you encounter on your way to the next planet. Furthermore, you have to avoid space debris, meteorites (which can even appear unexpectedly at the end of a level) and enemy ships that leave their formation. Your own ship is flying towards the centre of the screen and can be moved around in a circle. After the completion of a level, you warp to the next level. A counter tells you how many warps you still need to reach the next planet.
+D:es:You have to shoot all the ships you encounter on your way to the next planet. Furthermore, you have to avoid space debris, meteorites (which can even appear unexpectedly at the end of a level) and enemy ships that leave their formation. Your own ship is flying towards the centre of the screen and can be moved around in a circle. After the completion of a level, you warp to the next level. A counter tells you how many warps you still need to reach the next planet.
+D:it:Dovrai fare fuoco su tutte le navi che incontri sulla strada per il prossimo pianeta. Dovrai inoltre evitare detriti spaziali, meteoriti (che possono comparire inaspettatamente alla fine di un livello) e navi nemiche che lasciano la loro formazione. La tua nave vola verso il centro dello schermo e può essere spostata in cerchio. Dopo il completamento di un livello, un ipersalto ti porterà al livello successivo. Un contatore ti dirà di quanti ipersalti hai ancora bisogno per raggiungere il prossimo pianeta.
+A:Parker Brothers
+M: 
+E:shoot
+Y:1984
+F:games/GYRUSS.vsf.gz
+C:covers/GYRUSS-cover.png
+G:screens/GYRUSS-00.png
+G:screens/GYRUSS-01.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F5,,,JF

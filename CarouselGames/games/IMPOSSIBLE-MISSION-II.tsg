@@ -1,0 +1,16 @@
+T:Impossible Mission II
+X:64,pal,truedrive,driveicon,sid6581
+D:en:Enter Professor Elvin Atombender’s complex and stop him from hacking military computer installations and destroying the world. Use your personal pocket computer and explore. Assemble a three-digit combination to gain entry to each tower. Open safes, recover musical sequences that ultimately give you entry to his control tower and avoid his robots.
+D:fr:Pénétrez le complexe du professeur Elvin Atombender pour l’empêcher de hacker le système informatique de l’armée et de détruire le monde. Utilisez votre ordinateur de poche et partez en exploration. Retrouvez la combinaison de trois chiffres donnant accès à chaque tour. Ouvrez les coffres, retrouvez les séquences musicales qui vous donneront accès à sa tour de contrôle et évitez ses robots.
+D:de:Verschaffe Dir Zutritt zum Komplex von Professor Elvin Atombender und hinder ihn daran, sich in den Militärcomputer zu hacken, um so die Welt zu zerstören. Verwende Deinen Taschencomputer zur Nachforschung. Erhalte eine dreistellige Kombination, um Zugang zu jedem Turm zu gewinnen. Öffne Safes, stelle Musikfolgen wieder her, die Dir unbegrenzten Zugang zu seinem Kontrollturm geben und vermeide vor allen seine Roboter.
+D:es:Entra en el complejo del profesor Elvin Atombender para impedir que piratee las instalaciones de ordenadores militares y destruya el mundo. Utiliza tu ordenador personal de bolsillo y explora. Reúne una combinación de tres dígitos para poder entrar en cada torre. Abre las cajas fuertes, recupera las secuencias musicales que en última instancia te permitirán entrar en su torre de control y evita a sus robots.
+D:it:Entra nel territorio del Professor Elvin Atombender e impediscigli di hackerare il sistema informatico dell’esercito per distruggere il pianeta. Usa il tuo computer tascabile ed esplora. Trova la combinazione di tre cifre per entrare nelle torri. Apri casseforti, recupera sequenze musicali che ti daranno accesso alle torri di controllo ed evita i suoi robot.
+A:Novotrade
+M:
+E:platform
+Y:1988
+F:games/IMPOSSIBLE-MISSION-II.vsf.gz
+C:covers/IMPOSSIBLE-MISSION-II-cover.png
+G:screens/IMPOSSIBLE-MISSION-II-00.png
+G:screens/IMPOSSIBLE-MISSION-II-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,RE,,,JF,,

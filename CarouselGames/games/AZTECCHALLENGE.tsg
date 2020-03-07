@@ -1,0 +1,16 @@
+T:Aztec Challenge
+X:64,pal,sid6581
+D:en:You have to steer your character through seven absolutely different levels. In every level new deadly perils lurk for the hero. The first is probably the most famous level. Left and right are some not exactly friendly meaning aztecs, which welcome you with spears. You either have to duck under the spear or jump over it. If you get hit you have to start again. In the later levels you have to avoid stones, poisonous scorpions and snakes and get over a bridge.
+D:fr:You have to steer your character through seven absolutely different levels. In every level new deadly perils lurk for the hero. The first is probably the most famous level. Left and right are some not exactly friendly meaning aztecs, which welcome you with spears. You either have to duck under the spear or jump over it. If you get hit you have to start again. In the later levels you have to avoid stones, poisonous scorpions and snakes and get over a bridge.
+D:de:You have to steer your character through seven absolutely different levels. In every level new deadly perils lurk for the hero. The first is probably the most famous level. Left and right are some not exactly friendly meaning aztecs, which welcome you with spears. You either have to duck under the spear or jump over it. If you get hit you have to start again. In the later levels you have to avoid stones, poisonous scorpions and snakes and get over a bridge.
+D:es:You have to steer your character through seven absolutely different levels. In every level new deadly perils lurk for the hero. The first is probably the most famous level. Left and right are some not exactly friendly meaning aztecs, which welcome you with spears. You either have to duck under the spear or jump over it. If you get hit you have to start again. In the later levels you have to avoid stones, poisonous scorpions and snakes and get over a bridge.
+D:it:Dovrai guidare il tuo personaggio attraverso sette livelli differenti. In ogni livello nuovi pericoli mortali si nascondono per il nostro eroe. Il primo è probabilmente il livello più famoso, a destra e a sinistra alcuni aztechi poco amichevoli ti danno il benvenuto con le loro lance. Dovrai chinarti sotto la lancia o saltarci sopra. Se vieni colpito, dovrai ricominciare. Nei livelli successivi dovrai evitare pietre, scorpioni, serpenti velenosi e superare un ponte.
+A:Paul Norman
+M:Paul Norman
+E:adventure
+Y:1984
+F:games/AZTECCHALLENGE.vsf.gz
+C:covers/AZTECCHALLENGE-cover.png
+G:screens/AZTECCHALLENGE-00.png
+G:screens/AZTECCHALLENGE-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,F3,,JF

@@ -1,0 +1,16 @@
+T:H.E.R.O.
+X:64,pal,sid6581
+D:en:The hardworking miners of "Mount Leone" have been locked in the lower pits of the cave system through sudden volcanic activities. Our hero "Roderrick Hero" now starts for the search of the missing persons with his special equipment (backpack helicopter, integrated helmet laser and dynamite). After a successful rescue you reach the next level.
+D:fr:The hardworking miners of "Mount Leone" have been locked in the lower pits of the cave system through sudden volcanic activities. Our hero "Roderrick Hero" now starts for the search of the missing persons with his special equipment (backpack helicopter, integrated helmet laser and dynamite). After a successful rescue you reach the next level.
+D:de:The hardworking miners of "Mount Leone" have been locked in the lower pits of the cave system through sudden volcanic activities. Our hero "Roderrick Hero" now starts for the search of the missing persons with his special equipment (backpack helicopter, integrated helmet laser and dynamite). After a successful rescue you reach the next level.
+D:es:The hardworking miners of "Mount Leone" have been locked in the lower pits of the cave system through sudden volcanic activities. Our hero "Roderrick Hero" now starts for the search of the missing persons with his special equipment (backpack helicopter, integrated helmet laser and dynamite). After a successful rescue you reach the next level.
+D:it:I laboriosi minatori di "Monte Leone" sono rimasti intrappolati nelle fosse più inferiori del sistema di grotte a causa di improvvise attività vulcaniche. Il nostro eroe "Roderrick" inizia ora la sua ricerca delle persone scomparse con le sue attrezzature speciali (elicottero da zaino, elmetto laser integrato e dinamite). Dopo un salvataggio riuscito, raggiungi il livello successivo.
+A:John van Ryzin
+M:John van Ryzin
+E:maze
+Y:1984
+F:games/HERO.vsf.gz
+C:covers/HERO-cover.png
+G:screens/HERO-00.png
+G:screens/HERO-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,,,JF

@@ -1,0 +1,16 @@
+T:Jetpac
+X:vic,pal,8k
+D:en:VIC 20: Jetman has crash-landed on a distant planet, with ledges suspended in mid-air and populated by various nasties, and he must escape and find his way home. Your first task is to retrieve each of the three parts of his spaceship, in order, and carry them over the base part. After this, you must collect enough fuel to be able to fly away, again by picking it up and dropping it over the ship (you don't have to actually make contact with the ship in doing this). Once you've filled the ship up, you can fly on to the next level, in which you must again refuel.
+D:fr:VIC 20: Jetman has crash-landed on a distant planet, with ledges suspended in mid-air and populated by various nasties, and he must escape and find his way home. Your first task is to retrieve each of the three parts of his spaceship, in order, and carry them over the base part. After this, you must collect enough fuel to be able to fly away, again by picking it up and dropping it over the ship (you don't have to actually make contact with the ship in doing this). Once you've filled the ship up, you can fly on to the next level, in which you must again refuel.
+D:de:VC 20: Jetman has crash-landed on a distant planet, with ledges suspended in mid-air and populated by various nasties, and he must escape and find his way home. Your first task is to retrieve each of the three parts of his spaceship, in order, and carry them over the base part. After this, you must collect enough fuel to be able to fly away, again by picking it up and dropping it over the ship (you don't have to actually make contact with the ship in doing this). Once you've filled the ship up, you can fly on to the next level, in which you must again refuel.
+D:es:VIC 20: Jetman has crash-landed on a distant planet, with ledges suspended in mid-air and populated by various nasties, and he must escape and find his way home. Your first task is to retrieve each of the three parts of his spaceship, in order, and carry them over the base part. After this, you must collect enough fuel to be able to fly away, again by picking it up and dropping it over the ship (you don't have to actually make contact with the ship in doing this). Once you've filled the ship up, you can fly on to the next level, in which you must again refuel.
+D:it:VIC 20: Jetman has crash-landed on a distant planet, with ledges suspended in mid-air and populated by various nasties, and he must escape and find his way home. Your first task is to retrieve each of the three parts of his spaceship, in order, and carry them over the base part. After this, you must collect enough fuel to be able to fly away, again by picking it up and dropping it over the ship (you don't have to actually make contact with the ship in doing this). Once you've filled the ship up, you can fly on to the next level, in which you must again refuel.
+A:Ashby Computers and Graphics Ltd.
+M:Ashby Computers and Graphics Ltd.
+E:Platform, Shooter
+Y:1983
+F:games/Jetpac.vsf.gz
+C:covers/Jetpac.png
+G:screens/Jetpac-00.png
+G:screens/Jetpac-01.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

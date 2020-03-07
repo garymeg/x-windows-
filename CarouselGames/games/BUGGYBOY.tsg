@@ -1,0 +1,16 @@
+T:Buggy Boy
+X:64,pal,sid6581
+D:en:A terrain with huge rocks, trees, walls, dark tunnels is where you have to demonstrate all your driving skills. But not only the obstacles get to you, the clock also ticks mercilessly. If you do not make it to drive through the single sections of the tracks in the provided time, you will be disqualified. Next to the time gates which raise the time, there are also banners that get you bonus points, small flaggs that you should collect in the right order, footballs that you should push from the track with your buggy and also a second buggy can hinder you.
+D:fr:A terrain with huge rocks, trees, walls, dark tunnels is where you have to demonstrate all your driving skills. But not only the obstacles get to you, the clock also ticks mercilessly. If you do not make it to drive through the single sections of the tracks in the provided time, you will be disqualified. Next to the time gates which raise the time, there are also banners that get you bonus points, small flaggs that you should collect in the right order, footballs that you should push from the track with your buggy and also a second buggy can hinder you.
+D:de:A terrain with huge rocks, trees, walls, dark tunnels is where you have to demonstrate all your driving skills. But not only the obstacles get to you, the clock also ticks mercilessly. If you do not make it to drive through the single sections of the tracks in the provided time, you will be disqualified. Next to the time gates which raise the time, there are also banners that get you bonus points, small flaggs that you should collect in the right order, footballs that you should push from the track with your buggy and also a second buggy can hinder you.
+D:es:A terrain with huge rocks, trees, walls, dark tunnels is where you have to demonstrate all your driving skills. But not only the obstacles get to you, the clock also ticks mercilessly. If you do not make it to drive through the single sections of the tracks in the provided time, you will be disqualified. Next to the time gates which raise the time, there are also banners that get you bonus points, small flaggs that you should collect in the right order, footballs that you should push from the track with your buggy and also a second buggy can hinder you.
+D:it:Un terreno con enormi rocce, alberi, muri, tunnel è dove devi dimostrare tutte le tue abilità di guida. Ma non ci sono solo gli ostacoli, anche l'orologio avanza senza pietà. Se non riesci a guidare attraverso le singole sezioni dei tracciati nel tempo previsto, sarai squalificato. Accanto ai gate temporali che aumentano il tempo, ci sono anche dei banner che ti danno punti bonus, piccole bandiere che devi raccogliere nell'ordine giusto, palloni da calcio da spingere e anche un secondo Buggy potrebbe ostacolarti.
+A:Dave Thomas
+M:Bob Thomas
+E:sport
+Y:1987
+F:games/BUGGYBOY.vsf.gz
+C:covers/BUGGYBOY-cover.png
+G:screens/BUGGYBOY-00.png
+G:screens/BUGGYBOY-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF

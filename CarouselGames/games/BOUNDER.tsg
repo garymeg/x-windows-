@@ -1,0 +1,17 @@
+T:Bounder
+X:64,pal,sid6581
+D:en:Control Bounder, a tennis ball, as you bounce through each level, bouncing only on the grey slabs. If you miss, Bounder falls to his death. You cannot bounce over mountains or walls, so you must go around. Any collision costs Bounder another life. There is one major exception: you can bounce on plain green grass from level seven onwards.
+D:fr:Vous contrôlez Bounder, un balle de tennis, et vous rebondissez sur les zones grises à travers les niveaux. Si vous les manquez, Bounder ira à sa perte. Vous ne pouvez pas sauter par-dessus les montagnes et les murs, il vous faudra les contourner. Toute collision vous coûtera une vie. Il existe une exception : vous pouvez rebondir sur les plaines herbeuses qui apparaissent à partir du niveau sept.
+D:de:Control Bounder, ein Tennisball, mit dem Du durch jedes Level springst, aber nur auf den grauen Feldern. Wenn Du daneben springst, fällt der Control Bounder in den Tod. Du kannst nicht über Berge oder Wände springen, weshalb Du außen herum gehen musst. Jede Kollision kostet den Bounder ein Leben; jedoch gibt es eine Ausnahme: Du kannst auf frischem grünen Gras von Level sieben vorwärts springen.
+D:es:Controla como Bounder (una pelota de tenis) pasas los niveles botando solo en las losas grises. Si fallas, Bounder muere. No puedes botar sobre las montañas o paredes, así que tendrás que rodearlas. Cada choque cuesta una vida. Existe una excepción: puedes botar en la hierba verde a partir del nivel siete.
+D:it:Guida Bounder, una pallina da tennis, mentre rimbalzi tra i diversi livelli e solamente sui blocchi grigi. Se li manchi, Bounder precipiterà e morirà. Non potrai rimbalzare su montagne o muri, dovrai aggirarli. Qualsiasi collisione costerà una vita a Bounder. C’è solo una grande eccezione: non potrai rimbalzare sull’erba verde dal settimo livello in poi.
+A:Christian P.Shrigley
+A:Andrew Green
+M:Christian P.Shrigley
+E:puzzle
+Y:1985
+F:games/BOUNDER.vsf.gz
+C:covers/BOUNDER-cover.png
+G:screens/BOUNDER-01.png
+G:screens/BOUNDER-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

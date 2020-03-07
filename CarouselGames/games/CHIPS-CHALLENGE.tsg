@@ -1,0 +1,17 @@
+T:Chip’s Challenge
+X:64,pal,truedrive,driveicon,sid6581
+D:en:Work your way through 144 levels of challenging maze-like paths and puzzles. Ram blocks of soil together to make bridges over water or use them to protect you against cherry bombs. Deadly bugs are out to get you. Invisible partitions block you. Colored keys open doors. Collect all chips on a level before progressing to the next.
+D:fr:Trouvez votre chemin dans les 144 niveaux du labyrinthe et puzzle. Assemblez les blocs de terre pour former un pont et passer l’eau ou bien utilisez-les pour vous protéger des bombes. Attention, les insectes tueurs sont de sortie. Des cloisons invisibles vous bloquent le chemin. Les clés de couleur ouvrent les portes. Ramassez toutes les puces pour passer au niveau suivant.
+D:de:Bahn Dir Deinen Weg durch 144 Level von herausfordernden labyrinthartigen Pfaden und Rätseln. Ramme Blöcke voller Erde zusammen, um Brücken über Gewässer zu errichten, oder verwende sie als Schutz gegen Kirschbomben. Todbringende Wanzen sind hinter Dir her. Unsichtbare Abtrennungen blocken Dich. Farbige Schlüssel können Türen öffnen. Sammle alle Chips in einem Level, bevor Du zum nächsten gehst.
+D:es:Traza tu camino a través de los 144 niveles de desafiantes caminos y puzles laberínticos. Embiste los bloques de tierra para construir puentes sobre el agua o utilízalos para protegerte contra las bombas con forma de cereza. Los insectos mortales están fuera para atraparte. Hay muros de separación invisibles que bloquean tu paso. Las llaves de colores abren puertas. Recoge las fichas de un nivel antes de avanzar al siguiente.
+D:it:Fatti strada attraverso 144 livelli di avvincenti percorsi come labirinti o puzzle. Utilizza blocchi di terra per costruire ponti sull’acqua o usali per proteggerti contro le bombe. Insetti mortiferi cercano te. Muri invisibili ti bloccano. Chiavi colorate aprono porte. Raccogli tutte le chip prima di andare al seguente livello.
+A:Tom Pinnock
+M:Neil Crossley
+M:JVM Design
+E:puzzle
+Y:1990
+F:games/CHIPS-CHALLENGE.vsf.gz
+C:covers/CHIPS-CHALLENGE-cover.png
+G:screens/CHIPS-CHALLENGE-01.png
+G:screens/CHIPS-CHALLENGE-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,R,JF,F1,F3,,JF,,

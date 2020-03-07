@@ -1,0 +1,16 @@
+T:Bomb Jack
+X:64,pal,sid6581
+D:en:The player controls the super hero Jack and tries to deactivate bombs. If all bombs are touched in a certain order, the player receives bonus points. The right order is marked by blinking bombs. Various enemies as robots, ufos and vultures move over the field and subtract a life from the player when they touch him.
+D:fr:The player controls the super hero Jack and tries to deactivate bombs. If all bombs are touched in a certain order, the player receives bonus points. The right order is marked by blinking bombs. Various enemies as robots, ufos and vultures move over the field and subtract a life from the player when they touch him.
+D:de:The player controls the super hero Jack and tries to deactivate bombs. If all bombs are touched in a certain order, the player receives bonus points. The right order is marked by blinking bombs. Various enemies as robots, ufos and vultures move over the field and subtract a life from the player when they touch him.
+D:es:The player controls the super hero Jack and tries to deactivate bombs. If all bombs are touched in a certain order, the player receives bonus points. The right order is marked by blinking bombs. Various enemies as robots, ufos and vultures move over the field and subtract a life from the player when they touch him.
+D:it:Il giocatore controlla il supereroe Jack che dovrà disattivare le bombe. Se tutte le bombe vengono disattivate in un certo ordine il giocatore riceve punti bonus. L'ordine giusto è contrassegnato da bombe lampeggianti. Vari nemici come robot, ufo e avvoltoi si muovono sul campo di gioco e sottraggono una vita al giocatore quando lo toccano.
+A:Chris Harvey
+M:Mark Cooksey
+E:platform
+Y:1986
+F:games/BOMBJACK.vsf.gz
+C:covers/BOMBJACK-cover.png
+G:screens/BOMBJACK-00.png
+G:screens/BOMBJACK-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF

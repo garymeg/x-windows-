@@ -1,0 +1,16 @@
+T:Entombed
+X:64,pal,sid6581
+D:en:Sir Arthur Pendragon's main objective is to escape the tomb, the Great Sphinx, before all oxygen runs out. To achieve this end, the player must navigate a series of chambers linked by corridors, solve logic puzzles and deal with hostile enemies by either avoiding or fighting them. The tomb has seven floors. Pendragon's only form of defence is his whip, which he can utilise to defend himself from enemies. The player also has access to a torch, which will allow them to see in certain pitch-black areas of the tomb.
+D:fr:Sir Arthur Pendragon's main objective is to escape the tomb, the Great Sphinx, before all oxygen runs out. To achieve this end, the player must navigate a series of chambers linked by corridors, solve logic puzzles and deal with hostile enemies by either avoiding or fighting them. The tomb has seven floors. Pendragon's only form of defence is his whip, which he can utilise to defend himself from enemies. The player also has access to a torch, which will allow them to see in certain pitch-black areas of the tomb.
+D:de:Sir Arthur Pendragon's main objective is to escape the tomb, the Great Sphinx, before all oxygen runs out. To achieve this end, the player must navigate a series of chambers linked by corridors, solve logic puzzles and deal with hostile enemies by either avoiding or fighting them. The tomb has seven floors. Pendragon's only form of defence is his whip, which he can utilise to defend himself from enemies. The player also has access to a torch, which will allow them to see in certain pitch-black areas of the tomb.
+D:es:Sir Arthur Pendragon's main objective is to escape the tomb, the Great Sphinx, before all oxygen runs out. To achieve this end, the player must navigate a series of chambers linked by corridors, solve logic puzzles and deal with hostile enemies by either avoiding or fighting them. The tomb has seven floors. Pendragon's only form of defence is his whip, which he can utilise to defend himself from enemies. The player also has access to a torch, which will allow them to see in certain pitch-black areas of the tomb.
+D:it:L'obiettivo principale di Sir Arthur Pendragon è di fuggire dalla tomba, la Grande Sfinge, prima che tutto l'ossigeno si esaurisca. Per raggiungere lo scopo, il giocatore deve navigare in una serie di camere collegate da corridoi, risolvere enigmi logici e affrontare nemici ostili evitandoli o combattendoli. La tomba ha sette livelli. L'unica arma di Pendragon è la frusta, che può utilizzare per difendersi dai nemici. Il giocatore ha anche accesso a una torcia, che permette di vedere in certe aree buie della tomba.
+A:Dave Thomas, Robert Thomas
+M: 
+E:adventure
+Y:1985
+F:games/ENTOMBED.vsf.gz
+C:covers/ENTOMBED-cover.png
+G:screens/ENTOMBED-00.png
+G:screens/ENTOMBED-01.png
+J:2*:JU,JD,JL,JR,JF,JF,SP,SP,SP,,,,SP

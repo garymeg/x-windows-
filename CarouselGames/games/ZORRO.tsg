@@ -1,0 +1,16 @@
+T:Zorro
+X:64,pal,sid6581
+D:en:Zorro, you take the role as the legendary caped hero from California, as seen on television. Your love has been kidnapped right in front of your eyes and taken to the fort in the town and you set out on a quest to save her. But beware, in your way stands hundreds of soldiers and deadly traps.
+D:fr:Zorro, you take the role as the legendary caped hero from California, as seen on television. Your love has been kidnapped right in front of your eyes and taken to the fort in the town and you set out on a quest to save her. But beware, in your way stands hundreds of soldiers and deadly traps.
+D:de:Zorro, you take the role as the legendary caped hero from California, as seen on television. Your love has been kidnapped right in front of your eyes and taken to the fort in the town and you set out on a quest to save her. But beware, in your way stands hundreds of soldiers and deadly traps.
+D:es:Zorro, you take the role as the legendary caped hero from California, as seen on television. Your love has been kidnapped right in front of your eyes and taken to the fort in the town and you set out on a quest to save her. But beware, in your way stands hundreds of soldiers and deadly traps.
+D:it:Zorro, interpreta il ​​ruolo del leggendario eroe dalla California, come visto in televisione. Il tuo amore è stato rapito proprio davanti ai tuoi occhi e rinchiuso nel forte della città e ti sei lanciato in una missione per salvarla. Ma attenzione, lungo il tuo cammino troverai centinaia di soldati e trappole mortali.
+A:James Garon
+M:John A. Fitzpatrick
+E:platform
+Y:1985
+F:games/ZORRO.vsf.gz
+C:covers/ZORRO-cover.png
+G:screens/ZORRO-00.png
+G:screens/ZORRO-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF

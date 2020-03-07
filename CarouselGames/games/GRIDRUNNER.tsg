@@ -1,0 +1,16 @@
+T:Gridrunner
+X:vic,pal
+D:en:VIC 20: An incredibly powerful ship, the Gridrunner, has been developed to combat the evil droids invading mankind's huge orbiting solar power station, called the GRID. Your mission is to stop the droids and save the Earth!
+D:fr:VIC 20: Gridrunner, un vaisseau spatial incroyablement puissant, a été pensé pour combattre les horribles droïdes qui envahissent le GRID, une immense station orbitale produisant de l'énergie solaire. Votre mission est d'arrêter les droïdes et de sauver la planète !
+D:de:VC 20: Der Gridrunner ist ein unglaublich mächtiges Raumschiff, das dazu entwickelt wurde, die teuflischen Droiden zu bekämpfen, die in die Solarstation GRID der Erdlinge eindringen. Deine Mission ist es, die Droiden aufzuhalten und die Erde zu retten!
+D:es:VIC 20: La Gridrunner, una nave espacial increíblemente poderosa, se desarrolló para combatir a los malvados droides que invaden la inmensa estación en órbita de energía solar de la humanidad denominada GRID. ¡Tu misión es detener a los droides y salvar la Tierra!
+D:it:VIC 20: Una potentissima navicella spaziale, la Gridrunner, è stata creata per combattere i malvagi droidi che stanno invadendo l'enorme centrale elettrica solare costruita dall'uomo, chiamata GRID. La tua missione è di fermare i droidi e salvare la Terra.
+A:Jeff Minter
+M:
+E:shoot
+Y:1983
+F:games/GRIDRUNNER.vsf.gz
+C:covers/GRIDRUNNER-cover.png
+G:screens/GRIDRUNNER-01.png
+G:screens/GRIDRUNNER-02.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

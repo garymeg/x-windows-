@@ -1,0 +1,16 @@
+T:Jumpman
+X:64,pal,truedrive,driveicon,sid6581
+D:en:Survive all thirty game levels, scoring as many points as you can. Climb skyscrapers made of girders, ladders, ropes, and elevators. Complete each level by collecting bombs before you lose your seven lives. Avoid speeding bullets, floating blocks and pesky robots. Try not to fall, or another Jumpman bites the dust.
+D:fr:Survivez aux trente niveaux de ce jeu, en accumulant autant de points que possible. Grimpez les gratte-ciel faits de poutres, échelles, cordes et ascenseurs. Finissez chaque niveau en collectant les bombes avant de perdre vos sept vies. Evitez les balles, les blocs flottant et les fourbes robots. Essayez de ne pas tomber sinon, un autre Jumpman mordra la poussière.
+D:de:Überlebe alle dreißig Spiel-Level und erziele so viele Punkte wie möglich. Kletter auf Wolkenkratzer, die aus Trägern, Leitern, Seilen und Aufzügen bestehen. Beende jedes Level indem Du Bomben sammelst, bevor Du sieben Leben verlierst. Vermeide fliegende Kugeln, schwimmende Blöcke und nervtötende Roboter. Versuche nicht zu fallen, oder ein anderer Jumpman beißt ins Gras.
+D:es:Pasa los treinta niveles de juego, anotando tantos puntos como puedas. Escala rascacielos hechos de vigas, escaleras, cuerdas y ascensores. Completa cada nivel recogiendo bombas antes de perder tus siete vidas. Evita las balas veloces, los bloques flotantes y los robots molestos. Intenta no caerte u otro Jumpman morirá.
+D:it:Sopravvivi a questi trentatré livelli, facendo più punti possibli. Scala grattacieli fatti di travi, scale, funi e ascensori. Completa i livelli raccogliendo bombe prima di perdere sette vite. Evita proiettili vaganti, blocchi volanti e fastidiosi robot. Cerca di non cadere o un altro Jumpman mangerà la polvere.
+A:Randy Glover
+M:Randy Glover
+E:platform
+Y:1983
+F:games/JUMPMAN.vsf.gz
+C:covers/JUMPMAN-cover.png
+G:screens/JUMPMAN-00.png
+G:screens/JUMPMAN-01.png
+J:2*:JU,JD,JL,JR,JF,JF,EN,1,JF,2,3,4,JF,,

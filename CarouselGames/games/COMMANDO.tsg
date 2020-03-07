@@ -1,0 +1,16 @@
+T:Commando
+X:64,pal,sid6581
+D:en:You are Super Joe, the two-fisted elite soldier of the 80s, in the fight against the advancing forces. Equipped only with an M60 machine gun and six hand grenades, you expand into the hostile area. Mines, grenades and dynamite explode all around you.
+D:fr:You are Super Joe, the two-fisted elite soldier of the 80s, in the fight against the advancing forces. Equipped only with an M60 machine gun and six hand grenades, you expand into the hostile area. Mines, grenades and dynamite explode all around you.
+D:de:You are Super Joe, the two-fisted elite soldier of the 80s, in the fight against the advancing forces. Equipped only with an M60 machine gun and six hand grenades, you expand into the hostile area. Mines, grenades and dynamite explode all around you.
+D:es:You are Super Joe, the two-fisted elite soldier of the 80s, in the fight against the advancing forces. Equipped only with an M60 machine gun and six hand grenades, you expand into the hostile area. Mines, grenades and dynamite explode all around you.
+D:it:Sei Super Joe, il soldato d'élite a doppio pugno degli anni '80 nella lotta contro le forze in avanzata. Equipaggiato solo con una mitragliatrice M60 e sei granate a mano, ti inoltrerai nell'area ostile. Mine, granate e dinamite esplodono tutt'intorno a te.
+A:Chris Butler, Rory Green
+M:Rob Hubbard
+E:shoot
+Y:1985
+F:games/COMMANDO.vsf.gz
+C:covers/COMMANDO-cover.png
+G:screens/COMMANDO-00.png
+G:screens/COMMANDO-01.png
+J:2*:JU,JD,JL,JR,JF,JF,SP,SP,SP,,,,SP

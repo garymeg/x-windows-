@@ -1,0 +1,18 @@
+T:World Games
+X:64,ntsc,sid6581
+D:en:Travel the globe to compete in eight glamorous and unusual sports. Ski the slalom course at Chamonix, toss a caber in the hills of Scotland, skate and jump over barrels in Germany, pump iron in the Soviet Union, compete with 400-pound sumo wrestlers in Japan, dive off cliffs in Acapulco, keep balance on logs in Canada and ride bulls in the United States of America.
+D:fr:A travers le monde, entrez en compétition dans huit sports atypiques et fascinants. Slalomez sur les pistes de ski à Chamonix, lancez un tronc dans les Highlands écossaises, glissez et sautez sur des barils en Allemagne, soulevez de la fonte en Union Soviétique, renversez des sumos japonais de 180 kilos, sautez d’une falaise à Acapulco, restez en équilibre sur des troncs au Canada et montez sur un taureau aux Etats-Unis.
+D:de:Reise um die Welt, um in acht glamourösen und ungewöhnlichen Sportarten zu konkurrieren. Skifahren auf dem Slalomkurs in Chamonix, Baumstammwerfen in den Hügeln von Schottland, Schlittschuhlaufen und über Fässer springen in Deutschland, Power Dich in der Sowjetunion aus, oder im Wettbewerb mit 400-Pfund-Sumo-Ringern in Japan. Tauchen vor den Klippen in Acapulco, Balancieren auf Stämmen in Kanada und Stierreiten in den USA.
+D:es:Viaja por el mundo para competir en ocho deportes glamurosos e inusuales. Esquía en pistas de slalom en Chamonix, lanza un cáber en las colinas de Escocia, patina y salta sobre barriles en Alemania, levanta pesas en la Unión Soviética, compite con luchadores de sumo de 180 kg en Japón, lánzate al agua tirándote por un acantilado en Acapulco, mantén el equilibrio sobre troncos en Canadá y monta toros en los Estados Unidos de América.
+D:it:Viaggia attorno al globo per competere in otto sport inusuali. Fai lo slalom a Chamonix, lancia un tronco nelle colline scozzesi, pattina e salta oltre i barili in Germania, solleva pesi in Unione Sovietica, competi con dei lottatori di sumo di 200 chili in Giappone, lanciati da dei burroni ad Acapulco, tieniti in equilibrio sui tronchi in Canada e cavalca dei tori negli USA.
+A:K-Byte
+M:Steve Mage
+E:sport
+Y:1986
+F:games/EPYX-GAMES-ntsc-rgl-jp2.crt.gz
+I:3
+C:covers/WORLD-GAMES-cover.png
+G:screens/WORLD-GAMES-01.png
+G:screens/WORLD-GAMES-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,EN,JF,,,,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,EN,JF,,,,JF,,

@@ -1,0 +1,16 @@
+T:Comic Bakery
+X:64,pal,sid6581
+D:en:The game is set in a bakery, where the town baker tries to bake and deliver bread while fighting off raccoons. Pieces of bread move along a factory line while the raccoons try to eat the bread and switch off the machines. The player is required to keep the machinery running and also scare away the raccoons. If the player succeeds, the delivery truck is loaded with bread and drives off, advancing the player to the next level.
+D:fr:The game is set in a bakery, where the town baker tries to bake and deliver bread while fighting off raccoons. Pieces of bread move along a factory line while the raccoons try to eat the bread and switch off the machines. The player is required to keep the machinery running and also scare away the raccoons. If the player succeeds, the delivery truck is loaded with bread and drives off, advancing the player to the next level.
+D:de:The game is set in a bakery, where the town baker tries to bake and deliver bread while fighting off raccoons. Pieces of bread move along a factory line while the raccoons try to eat the bread and switch off the machines. The player is required to keep the machinery running and also scare away the raccoons. If the player succeeds, the delivery truck is loaded with bread and drives off, advancing the player to the next level.
+D:es:The game is set in a bakery, where the town baker tries to bake and deliver bread while fighting off raccoons. Pieces of bread move along a factory line while the raccoons try to eat the bread and switch off the machines. The player is required to keep the machinery running and also scare away the raccoons. If the player succeeds, the delivery truck is loaded with bread and drives off, advancing the player to the next level.
+D:it:Il gioco è ambientato in una panetteria, dove il fornaio della città tenterà di cuocere e consegnare il pane combattendo contro i procioni. I pezzi di pane si muovono lungo una linea di fabbrica mentre i procioni cercano di mangiare il pane e spegnere le macchine. Il giocatore dovrà tenere in funzione il macchinario e spaventare i procioni. Se il giocatore riesce, il camion delle consegne viene caricato con il pane e parte, portando il giocatore al livello successivo.
+A:Colin Gresty, Stephen Wahid
+M:Martin Galway
+E:platform
+Y:1984
+F:games/COMICBAKERY.vsf.gz
+C:covers/COMICBAKERY-cover.png
+G:screens/COMICBAKERY-00.png
+G:screens/COMICBAKERY-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF

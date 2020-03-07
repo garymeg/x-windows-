@@ -1,0 +1,16 @@
+T:Cosmic Causeway
+X:64,pal,sid6581
+D:en:Thunder along 24 perilous new courses in six sections. Negotiate obstacles and aliens and collect credits (white disks). At the end of each section is a dragon you must defeat. Time remaining at the end of a level is carried forward to the next. Remaining time is converted into bonus points. Shoot aliens by pushing FORWARD.
+D:fr:Filez sur les 24 nouvelles courses réparties dans six chapitres. Evitez les obstacles et les monstres sans oublier les bonus (les boules blanches). A la fin de chaque course, vous devez battre un dragon. Le temps qui vous reste à la fin d’un niveau est reporté sur le niveau suivant. Le temps supplémentaire devient un bonus. Tuez les monstres en appuyant sur AVANT.
+D:de:Donner durch 24 neue gefährliche Strecken in sechs Abschnitten. Überwinde Hindernisse und Aliens und sammle Guthaben (weiße Scheiben). Am Ende jedes Abschnitts befindet sich ein Drache, den Du bezwingen musst. Die Zeit, die am Ende eines Levels übrig ist, überträgt sich automatisch auf den nächsten. Verbleibende Zeit wird in Bonuspunkte umgewandelt. Beschieße Aliens mit der „VORWÄRTS“ Taste.
+D:es:Corre velozmente a lo largo de 24 peligrosos nuevos trayectos divididos en seis secciones. Sortea obstáculos y alienígenas y recauda créditos (discos blancos). Al final de cada sección deberás derrotar al dragón. El tiempo restante al final de cada nivel se trasladará al siguiente nivel. El tiempo restante se convierte en puntos de bonificación. Dispara a los alienígenas pulsando ADELANTE.
+D:it:Sfreccia lungo 24 pericolosi percorsi in sei sezioni. Alla fine di ciascuna sezione, troverai un drago da sconfiggere. Il tempo rimanente alla fine del livello, verrà utilizzato anche nel livello seguente. Il tempo rimanente viene convertito in punti bonus. Spara gli alieni premendo AVANTI.
+A:Shaun Southern
+M:Shaun Southern
+E:puzzle
+Y:1987
+F:games/COSMIC-CAUSEWAY.vsf.gz
+C:covers/COSMIC-CAUSEWAY-cover.png
+G:screens/COSMIC-CAUSEWAY-01.png
+G:screens/COSMIC-CAUSEWAY-02.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

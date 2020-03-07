@@ -1,0 +1,17 @@
+T:Destroyer
+X:64,ntsc,truedrive,driveicon,sid6581
+D:en:Complete your allocated mission to protect merchant ships, land troops and undertake supply runs, ensuring your destroyer isn’t sunk in the process. Have you got what it takes to fend off lurking U-Boat Wolfpacks, diving fighters, sharp-shooting cruisers and much-feared kamikaze bombers?
+D:fr:Complétez votre mission en protégeant la flotte marchande, débarquez les troupes et assurez le ravitaillement, tout en faisant attention que votre cuirassé ne soit pas coulé en chemin. Aurez-vous le courage de repousser les U-Boat Wolfpacks à l'affût, les sous-marins furtifs, les croiseurs de haute précision, et les redoutables bombardiers kamikazes?
+D:de:Vervollständige Deine zugewiesene Mission, um Deine Frachtschiffe zu schützen, Truppen zu landen und Versorgungsfahrten zu unternehmen und stelle dabei sicher, dass Dein Zerstörer nicht versenkt wird. Hast Du das nötige Zeug, um lauernde Wolfpacks U-Boote, Kampftaucher, Scharfschützen und angsteinflößende Kamikaze-Bomber abzuwehren?
+D:es:Cumple con la misión que se te ha asignado para proteger a los buques mercantes, tropas terrestres y suministros de mercancía, asegurándote de que tu destructor no se hunde en el proceso. ¿Tienes lo necesario para esquivar a los barcos Wolfpacks que acechan, a luchadores que bucean, a los yates que disparan y a los tan temidos bombarderos kamikazes?
+D:it:Completa la tua missione e proteggi le navi mercantili, le truppe di terra e porta a termine i rifornimenti, senza far affondare il tuo cacciatorpediniere. Sei pronto a respingere le sfuggenti U-Boat, i caccia, i tembilissimi incrociatori e i bombardieri kamikaze?
+A:Chuck Sommerville
+A:Michael Kosaka
+M:Epyx Games
+E:shoot
+Y:1986
+F:games/DESTROYER.vsf.gz
+C:covers/DESTROYER-cover.png
+G:screens/DESTROYER-00.png
+G:screens/DESTROYER-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

@@ -1,0 +1,18 @@
+T:Boulder Dash
+X:64,ntsc,truedrive,sid6581
+D:en:Boulder Dash™ is the legendary action-puzzle game. Dig through caves collecting gems and dash to reach the exit in time, trapping or avoiding various dangerous creatures while dodging obstacles like falling boulders, avalanches or underground explosions. New exciting versions are also available. Please check www.boulder-dash.com.
+D:fr:Boulder Dash™ est une légende du puzzle-action. Creusez à travers les grottes pour ramasser les joyaux et foncez pour atteindre la sortie dans le temps imparti, posez des pièges ou évitez les créatures qui rôdent tout en esquivant les obstacles tels les pierres, avalanches ou explosions souterraines. De nouvelles aventures sont maintenant disponibles. Allez sur www.boulder-dash.com
+D:de:Boulder Dash™ ist das legendäre Action-Puzzle-Spiel. Grabe Dich durch Höhlen auf der Suche nach Edelsteinen und fange oder vermeide gefährliche Kreaturen, während Du Hindernissen wie etwa herabfallende Felsbrocken, Lawinen, oder unterirdische Explosionen ausweichst, aber sei schnell, um innerhalb der Zeit den Ausgang zu erreichen. Neue spannende Versionen sind ebenfalls erhältlich. Gehe zu: www.boulder-dash.com.
+D:es:Boulder Dash™ es el legendario juego de acción y rompecabezas. Excava a través de cuevas recolectando gemas y corre para alcanzar la salida a tiempo, atrapando o evitando varias criaturas peligrosas mientras esquivas obstáculos como rocas que caen, avalanchas o explosiones subterráneas. Las nuevas y emocionantes versiones también están disponibles. Consulta el sitio www.boulder-dash.com.
+D:it:Boulder Dash™ è il leggendario puzzle d’azione. Scava delle grotte, raccogli le pietre preziose e corri per uscirne in tempo, intrappolando o evitando le creature pericolose, superando ostacoli come macigni, valanghe o esplosioni sotterranee. Nuove avventurose versioni sono disponibili. Visita il sito www.boulder-dash.com.
+A:Peter Liepa
+A:Chris Gray
+M:Peter Liepa
+E:puzzle
+Y:1984
+F:games/BOULDER-DASH.vsf.gz
+C:covers/BOULDER-DASH-cover.png
+G:screens/BOULDER-DASH-00.png
+G:screens/BOULDER-DASH-01.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,F3,JF,RS,,,JF,,
+J:2:JU,JD,JL,JR,JF,JF,JF,F3,JF,RS,,,JF,,

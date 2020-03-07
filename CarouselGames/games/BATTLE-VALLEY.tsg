@@ -1,0 +1,17 @@
+T:Battle Valley
+X:64,pal,sid6581
+D:en:Capture all terrorist bases in Battle Valley and eliminate two stolen missiles, before the countdown reaches zero. Three bases are located in each direction. Most weapons are eliminated using the helicopter, with the rest requiring the tank. Use the helicopter’s winch to collect pontoons to mend bridges, or collect ammunition. Reload the tank at ammunition dumps.
+D:fr:Capturez toutes les bases terroristes de Battle Valley et détruisez les missiles volés avant que le décompte n’atteigne zéro. Trois bases se trouvent dans chaque direction. La plupart des armes peuvent être détruites avec l’hélicoptère, autrement, utilisez le tank. Le grapin de l’hélicoptère permet de prendre les plateformes pour réparer les ponts et ramassez des munitions. Rechargez le tank à la cache d’arme.
+D:de:Erfasse alle terroristischen Lager im Battle-Valley und eliminiere zwei gestohlene Raketen, bevor der Countdown Null erreicht. In jeder Richtung befinden sich drei Lager. Die meisten Waffen können mit dem Hubschrauber zerstört werden, der Rest mit dem Panzer. Verwende die Winde des Hubschraubers, um Pontons zu sammeln und so die Brücken zu reparieren, oder um Munition zu sammeln. Bewaffne den Panzer im Munitionslager.
+D:es:Captura todas las bases terroristas en Battle Valley y elimina dos misiles robados antes de que el contador llegue a cero. Hay tres bases en cada dirección. La mayoría de las armas se eliminan utilizando el helicóptero, y para el resto deberás utilizar el tanque. Utiliza el cabestrante del helicóptero para recoger pontones para reparar puentes o recoger munición. Vuelve a cargar el tanque en los vertederos de municiones.
+D:it:Conquista tutte le basi terroristiche nella Battle Valley ed elimina i due missili rubati, prima che il conto alla rovescia arrivi a zero. Tre basi si trovano in tre diverse direzioni. Gran parte delle armi si eliminano con l’elicottero, le altre richiedono l’uso del carro armato. Usa l’argano dell’elicottero per raccogliere pontoni e aggiustare ponti, o collezionare munizioni. Ricarica il carro armato al deposito munizioni.
+A:Simon Wellard
+M:Jeroen Tel
+M:Charles Deenen
+E:shoot
+Y:1988
+F:games/BATTLE-VALLEY.vsf.gz
+C:covers/BATTLE-VALLEY-cover.png
+G:screens/BATTLE-VALLEY-01.png
+G:screens/BATTLE-VALLEY-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,DL,JF,SP,F1,F3,JF,,

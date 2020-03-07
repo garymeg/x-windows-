@@ -1,0 +1,18 @@
+T:Winter Games
+X:64,ntsc,sid6581
+D:en:Experience eight winter sport events: ski jump, bobsled, figure skating, freestyle skating, hot dog aerials, speed skating and biathlon (skiing and rifle shooting). Practice each event first to sharpen your skills, then choose your name, your country and let the games begin. Try to win gold in every event, second place gets silver and third gets bronze.
+D:fr:Essayez-vous à huit sports d’hiver fascinants : le saut en ski, le bobsled, les figures imposées, le freestyle, le saut en longueur, la course de vitesse et le biathlon (du ski et du tir). Entraînez-vous avant chaque épreuve pour devenir le meilleur. Visez la médaille d’or dans chaque épreuve, la deuxième place donne la médaille d’argent et la troisième, le bronze.
+D:de:Erlebe acht verschiedene Wintersportveranstaltungen: Skispringen, Bobfahren, Eiskunstlauf, Freestyle-Skating, Freestyle-Skiing (Hot Dog Aerials), Eisschnelllauf und Biathlon (Skifahren und Gewehrschießen). Trainiere jede Sportart zuerst, um Deine Fähigkeiten zu verbessern und wähle anschließend Deinen Namen aus, die Nation, die Du repräsentierst und lasse die Spiele beginnen. Versuche auf jedenfall die Goldmedaille zu gewinnen, der zweite Platz erhält Silber und der dritte bekommt die Bronzemedaille.
+D:es:Experimenta ocho eventos deportivos de invierno: salto de esquí, bobsled, patinaje artístico, patinaje libre, saltos aéreos, patinaje de velocidad y biatlón (esquí y tiro al blanco). Práctica primero cada evento para mejorar sus habilidades, después, elije tu nombre, país y deja que los juegos comiencen. Intenta ganar la medalla de oro en cada evento, el segundo puesto otendrá la medalla de plata y el tercero la de bronce.
+D:it:Pratica otto sport: salto con gli sci, bob, pattinaggio artistico, pattinaggio freestyle, freestyle skiing, short track e biathlon (sci e tiro al bersaglio). Pratica ciascun evento per migliorare le tue abilità, poi scegli il tuo nome, il paese e inizia. Prova a vincere la medaglia d’oro, il secondo posto vale l’argento mentre il terzo il bronzo.
+A:Action Graphics
+M:
+E:sport
+Y:1985
+F:games/EPYX-GAMES-ntsc-rgl-jp2.crt.gz
+I:2
+C:covers/WINTER-GAMES-cover.png
+G:screens/WINTER-GAMES-01.png
+G:screens/WINTER-GAMES-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,EN,JF,,,,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,EN,JF,,,,JF,,

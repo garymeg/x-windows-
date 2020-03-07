@@ -1,0 +1,17 @@
+T:Bear Bovver
+X:64,pal,sid6581
+D:en:Ted's electric truck needs a new battery. Climb up the scaffolding and collect the batteries for his electric car before the bovver bears capture him! All Ted has is a small number of time bombs, found scattered around the building site. Time things right and you might be able to drop the batteries on those bears below to help clear a way back to the truck!
+D:fr:Le camion électrique de Ted a besoin d'une nouvelle batterie. Montez les échaffaudages pour trouver des batteries pour son véhicule avant que les ours de Bovver ne le capturent ! Ted n'a que quelques bombes à retardement cachées autour du site de construction. Gérez votre temps et vous pourrez laisser tomber vos batteries sur les ours en contrebas pour qu'il se fraye un passage jusqu'au camion !
+D:de:Teds E-Laster braucht dringend eine neue Batterie. Erklimme das Baugerüst und sammle die Batterien für sein E-Mobil, bevor er geschnappt wird. Ted hat lediglich eine kleine Anzahl an Zeitbomben, die rund um den Standort herum verteilt liegen. Kalkuliere Deine Zeit richtig und es wird Dir gelingen, die Batterien an den Bären unterhalb zu positionieren, um Dir einen sicheren Weg zurück zum Laster zu ermöglichen!
+D:es:El camión eléctrico de Ted necesita una batería nueva. ¡Sube por los andamios y recolecta las baterías para su vehículo eléctrico antes de que los bovver bears lo atrapen! Lo único que tiene Ted son un par de bombas de tiempo que se encuentran desparramadas por la obra en construcción. ¡Utiliza bien tu tiempo y puede que logres arrojarles las baterías a esos osos para liberar el camino de regreso al camión!
+D:it:Il camion elettrico di Ted ha bisogno di nuove batterie. Arrampicati su impalcature e prendi le batterie prima che i Bovver lo catturino! Tutto ciò che Ted possiede sono poche bombe a orologeria, sparpagliate nel cantiere. Il tempo scorre e dovrai essere bravo a far cadere le batterie sui Bovver di sotto per farti strada verso il camion!
+A:Donald Campbell
+A:Jon Ritman
+M:
+E:platform
+Y:1984
+F:games/BEAR-BOVVER.vsf.gz
+C:covers/BEAR-BOVVER-cover.png
+G:screens/BEAR-BOVVER-01.png
+G:screens/BEAR-BOVVER-02.png
+J:2*:JU,JD,JL,JR,JF,JF,F7,F1,JF,F3,F5,,JF,,

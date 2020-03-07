@@ -1,0 +1,16 @@
+T:Cybernoid II
+X:64,pal,sid6581
+D:en:The space pirates are at it again. They have stolen more cargo from the federation and it is your job to retrieve it all. Shoot ships, collect cargo, gain new weaponry and gather yellow canisters (ammunition). Choose the best weapon for the screen you are on while battling against the clock. Reach the end of level depot before time runs out.
+D:fr:Revoilà les pirates de l’espace. Ils ont encore volé la cargaison de la Fédération et c’est à vous de la récupérer. Tirez sur les vaisseaux, ramassez la cargaison, trouvez de nouvelles armes et ramassez les caisses jaunes (munitions). Choisissez bien la meilleure arme pour le niveau que vous jouez et gardez un oeil sur le compte à rebours. Finissez le niveau avant la fin du temps.
+D:de:Die Weltraumpiraten sind wieder in voller Fahrt. Sie haben noch mehr Fracht aus dem Verband gestohlen, und es ist Deine Aufgabe, alles zurück zu holen. Versenke Schiffe, sammle Fracht, gewinne neue Waffen und sammle gelbe Kanister (Munition). Wähle die beste Waffe für den Screen, auf dem Du bist, während Du gegen die Zeit kämpfst. Erreiche das Ende vom Depotlevel, bevor die Zeit abläuft.
+D:es:Los piratas del espacio están otra vez con ello. Han robado más cargamento a la federación y tú debes recuperarlo. Dispara a las naves, recoge el cargamento, gana nuevo armamento y recolecta los botes amarillos (munición). Elije la mejor arma para la pantalla en la que estás mientras luchas contra el reloj. Llega al final del nivel antes de que se acabe el tiempo.
+D:it:I pirati dello spazio sono tornati. Hanno rubato i cargo della Federazione ed è tuo dovere riportarli a casa. Spara a navi, riconquista i cargo, conquista nuove armi e raccogli le bombole gialle (munizioni). Scegli l’arma migliore per i diversi quadri, mentre lotti contro il tempo. Arriva alla fine del livello prima che finisca il tempo.
+A:Nick Jones
+M:Jeroen Tel
+E:shoot
+Y:1988
+F:games/CYBERNOID-II-2017.vsf.gz
+C:covers/CYBERNOID-II-cover.png
+G:screens/CYBERNOID-II-00.png
+G:screens/CYBERNOID-II-01.png
+J:2*:JU,JD,JL,JR,JF,JF,1,2,JF,3,4,5,JF,,

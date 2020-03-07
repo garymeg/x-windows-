@@ -1,0 +1,16 @@
+T:Arkanoid
+X:64,pal,sid6581
+D:en:Arkanoid is one of the most well-known Breakout variant. The game consist of many rectangular blocks, that need to be destroyed by an energy ball. The Vaus capsule forms a barrier with which you hurl the ball onto the blocks. If you lose a ball, also the capsule will lose a life. Behind some blocks hides one of seven different extras. If the block is destroyed, an extra capsule sinks to the ground and if you catch it you will receive an additional fitting, such as a wider bat or a laser.
+D:fr:Arkanoid is one of the most well-known Breakout variant. The game consist of many rectangular blocks, that need to be destroyed by an energy ball. The Vaus capsule forms a barrier with which you hurl the ball onto the blocks. If you lose a ball, also the capsule will lose a life. Behind some blocks hides one of seven different extras. If the block is destroyed, an extra capsule sinks to the ground and if you catch it you will receive an additional fitting, such as a wider bat or a laser.
+D:de:Arkanoid is one of the most well-known Breakout variant. The game consist of many rectangular blocks, that need to be destroyed by an energy ball. The Vaus capsule forms a barrier with which you hurl the ball onto the blocks. If you lose a ball, also the capsule will lose a life. Behind some blocks hides one of seven different extras. If the block is destroyed, an extra capsule sinks to the ground and if you catch it you will receive an additional fitting, such as a wider bat or a laser.
+D:es:Arkanoid is one of the most well-known Breakout variant. The game consist of many rectangular blocks, that need to be destroyed by an energy ball. The Vaus capsule forms a barrier with which you hurl the ball onto the blocks. If you lose a ball, also the capsule will lose a life. Behind some blocks hides one of seven different extras. If the block is destroyed, an extra capsule sinks to the ground and if you catch it you will receive an additional fitting, such as a wider bat or a laser.
+D:it:Arkanoid è una delle varianti di Breakout più conosciute. Il gioco consiste in molti blocchi rettangolari che devono essere distrutti da una palla di energia. La capsula Vaus forma una barriera con la quale si lancia la palla sui blocchi. Se perdi una palla, anche la capsula perderà una vita. Dietro alcuni blocchi si nasconde uno dei sette diversi extra. Se il blocco viene distrutto, una capsula scende a terra e se presa riceverai un accessorio aggiuntivo, come una capsula più larga o un laser.
+A:David A. Collier
+M:Martin Galway
+E:shoot
+Y:1987
+F:games/ARKANOID.vsf.gz
+C:covers/ARKANOID-cover.png
+G:screens/ARKANOID-00.png
+G:screens/ARKANOID-01.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,JF,JF,J,1,2,JF

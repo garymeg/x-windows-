@@ -1,0 +1,16 @@
+T:Deflektor
+X:64,pal,sid6581
+D:en:Complete each optical circuit. The high intensity beam must be reflected, refracted and polarized around the screen to reach the receiver before the energy drains. Obstacles reflect, absorb or transfer the beam. Your laser destroys cells. Position the cursor, then push FIRE and LEFT/RIGHT to rotate the current mirror. Avoid overloading. Beware the gremlins.
+D:fr:Finissez chaque circuit optique. Déviez la lumière en la réfléchissant ou en la polarisant à travers l’écran pour atteindre le receveur avant de consommer toute l’énergie. Des obstacles réfléchissent, absorbent ou transfèrent le rayon. Votre laser détruit les cellules. Placez le curseur et appuyez sur FEU et GAUCHE/DROITE pour tourner le miroir. Attention à la surcharge et méfiez-vous des gremlins.
+D:de:Vervollständige jede optische Schaltung. Der Strahl mit hoher Intensität muss reflektiert, gebrochen und polarisiert werden, um den Schirm des Empfängers zu erreichen, bevor die Energie nachlässt. Hindernisse reflektieren, absorbieren oder übertragen den Strahl. Dein Laser zerstört Zellen. Positioniere den Cursor, anschließend drücke FIRE und „LINKS /RECHTS“, um den entsprechenden Spiegel zu drehen. Vermeide Überlastung und achte auf Kobolde.
+D:es:Completa cada circuito óptico. El haz de luz de alta intensidad debe estar reflejado, refractado y polarizado alrededor de la pantalla para llegar al receptor antes de que la energía se agote. Los obstáculos reflejan, absorben o transfieren el haz de luz. Tu láser destruye celdas. Posiciona el cursor, a continuación pulsa FUEGO y IZQUIERDA/DERECHA para girar el espejo. Evita la sobrecarga. Ten cuidado con los gremlins.
+D:it:Completa i circuiti ottici. I raggi ad alta intensità devono essere riflessi, rifratti e polarizzati intorno allo schermo per arrivare al ricevitore prima che l’energia si azzeri. Gli ostacoli riflettono, assorbono o trasferiscono il raggio. Il tuo laser distrugge le celle. Posiziona il cursore, poi premi FIRE e SINISTRA/DESTRA per ruotare lo specchio. Evita sovraccarichi. Attento ai gremlin.
+A:Jason Perkins
+M:Ben Daglish
+E:puzzle
+Y:1987
+F:games/DEFLEKTOR.vsf.gz
+C:covers/DEFLEKTOR-cover.png
+G:screens/DEFLEKTOR-01.png
+G:screens/DEFLEKTOR-02.png
+J:2*:JU,JD,JL,JR,JF,JF,5,JF,JF,,,,JF,,

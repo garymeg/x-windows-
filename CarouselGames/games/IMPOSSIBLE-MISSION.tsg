@@ -1,0 +1,16 @@
+T:Impossible Mission
+X:64,pal,truedrive,driveicon,sid6581
+D:en:Penetrate professor Elvin Atombender’s underground base. Evade his robot guards. Discover the passwords for the robots, lifts and the control center. Search the furniture in all thirty two rooms, then find Atombender’s control center. Use your pocket computer to stop him triggering a global missile attack. You definitely do not want to stay in his base forever.
+D:fr:Pénétrez dans la base souterraine du professeur Elvin Atombender. Esquivez ses gardes robots. Découvrez le mot de passe pour les robots, les ascenceurs et le centre de contrôle. Fouillez les trente-deux chambres, puis le centre de contrôle du professeur. Utilisez votre ordinateur de poche pour l’arrêter dans le lancement d’une attaque balistique globale. Il est clair que vous ne voulez pas traîner plus longtemps dans cette base...
+D:de:Dringe in die unterirdische Basis von Professor Elvin Atombender ein. Umgehe seine Roboterwachen und finde die Passwörter für die Roboter, Aufzüge und zum Kontrollzentrum. Durchsuche die Möbel in allen 32 Zimmern, um so Zutritt zu Atombenders Kontrollzentrum zu erhalten. Verwende Deinen Taschencomputer, um ihn am Beginn eines globalen Raketenangriff zu hindern. Du willst definitiv nicht für immer in seiner Basis bleiben.
+D:es:Penetra en la base subterránea del profesor Elvin Atombender. Evade a sus guardias robot. Descubre las contraseñas de los robots, los ascensores y el centro de control. Busca los muebles en las treinta y dos habitaciones, a continuación encuentra el centro de control de Atombender. Utiliza tu ordenador de bolsillo para impedir que lance un ataque global de misiles. Definitivamente, no quieres quedarte en su base para siempre.
+D:it:Infiltrati nella base sotterranea del Professor Elvin Atombender. Evita le guardie robot. Scopri le password di robot, ascensori e del centro di controllo. Cerca tra i mobili delle trentadue stanze, troverai il centro di controllo di Atombender. Usa il tuo computer tascabile per fermarlo dal lanciare un attacco missilistico globale. Non vorrai stare in questa base per sempre.
+A:Dennis Caswell
+M:
+E:platform
+Y:1983
+F:games/IMPOSSIBLE-MISSION.vsf.gz
+C:covers/IMPOSSIBLE-MISSION-cover.png
+G:screens/IMPOSSIBLE-MISSION-01.png
+G:screens/IMPOSSIBLE-MISSION-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,RE,,,JF,,

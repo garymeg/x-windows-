@@ -1,0 +1,18 @@
+T:California Games
+X:64,ntsc,sid6581
+D:en:Welcome to California. Hit the beaches, parks and streets, and go for trophies in half-pipe skateboarding, footbag, roller skating, surfing, BMX bike racing and flying disk throwing. Read the full online instructions on how to compete in the most totally awesome games in the world.
+D:fr:Bienvenue en Californie ! Remportez les trophés de half-pipe, footbag, roller, surf, courses en BMX, et de lancé de disque sur les plages, dans les rues et parcs. Les instructions complètes en ligne vous permettront de remportez l’un des meilleurs jeux qui ait jamais vu le jour !
+D:de:Willkommen in Kalifornien. Gehe zu all den Stränden, Parks und Straßen und gewinne Pokale in den Sportarten Halfpipes, Skateboarding, Footbag, Rollschuhlaufen, Surfen, BMX-Race und Frisbee werfen zu. Lies die Online-Anleitung durch wie man zu den härtesten Spielen der Welt antritt.
+D:es:Bienvenido a California. Vete a la playa, a los parques y a las calles y consigue trofeos patinando con el skate en una half-pipe, jugando a footbag, patinando sobre ruedas, haciendo surf y carreras de bicis BMX y tirando discos voladores. Lee las instrucciones completas en línea para aprender a competir en los juegos más impresionantes del mundo.
+D:it:Benvenuto in California. Scendi in spiaggia, bazzica parchi e strade, e conquista trofei nell’half pipe col tuo skateboard, giocando a Footbag, sui pattini, sul surf, con la tua BMX o col freesbee. Leggi le istruzioni online su come competere in tutti i giochi del mondo.
+A:Epyx Games
+M:Epyx Games
+E:sport
+Y:1987
+F:games/EPYX-GAMES-ntsc-rgl-jp2.crt.gz
+I:4
+C:covers/CALIFORNIA-GAMES-cover.png
+G:screens/CALIFORNIA-GAMES-01.png
+G:screens/CALIFORNIA-GAMES-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,EN,JF,,,,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,EN,JF,,,,JF,,

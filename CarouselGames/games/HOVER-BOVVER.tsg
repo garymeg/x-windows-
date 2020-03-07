@@ -1,0 +1,17 @@
+T:Hover Bovver
+X:64,pal,sid6581
+D:en:Gordon Bennet has borrowed his neighbor's Air-Mo lawnmower. Mow your way through as many of the 16 lawns as you can before the pursuing neighbor retrieves his mower. Try not to upset the dog or the gardener!
+D:fr:Gordon Bennet a emprunté la tondeuse Air-Mo à son voisin. Frayez-vous un chemin avec la tondeuse à travers les 16 jardins avant que votre voisin ne vous rattrape. Attention aux chiens et aux jardiniers irascibles !
+D:de:Gordon Bennet hat sich den Rasenmäher seines Nachbarn geliehen. Mähe Dir Deinen Weg durch möglichst viele der 16 Rasen, bevor der Nachbar seinen Mäher zurückholt. Pass auf und verärgere nicht den Hund des Gärtners!
+D:es:Gordon Bennet tomó prestada la cortadora de césped de su vecino Air-Mo. Hay 16 sectores. Corta el pasto de todos los que puedas antes de que el molesto vecino te persiga para que le regreses la máquina. ¡Trata de que el perro y el jardinero no se enfaden!
+D:it:Gordon Bennet ha preso in prestito il tagliaerba Air-Mo del suo vicino vicino. Fatti strada tagliando l'erba di 16 giardini prima che il tuo vicino all'inseguimento riprenda ciò che è suo. Non far arrabbiare il cane o il giardiniere!
+A:Jeff Minter
+M:James Lisney
+E:puzzle
+Y:1983
+F:games/HOVER-BOVVER.vsf.gz
+C:covers/HOVER-BOVVER-cover.png
+G:screens/HOVER-BOVVER-01.png
+G:screens/HOVER-BOVVER-02.png
+J:1*:JU,JD,JL,JR,JF,JF,F7,JF,JF,F1,F3,F5,JF,,
+J:2:JU,JD,JL,JR,JF,JF,F7,JF,JF,F1,F3,F5,JF,,

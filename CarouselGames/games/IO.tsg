@@ -1,0 +1,17 @@
+T:IO
+X:64,pal,sid6581
+D:en:Test your skills against diabolical alien beings and spacecraft. Collect smart-bombs or shoot the bombs to turn them into different weapon pick-ups. Add an orb to help protect your ship. Get bonuses and extra lives as you blast through each level, reaching the alien host who awaits at the end.
+D:fr:Mettez à fleur de peau vos talents contre des créatures extraterrestres et des vaisseaux. Ramassez les bombes à tête chercheuse ou lancez-les pour les transformer en de nouveaux équipements. Ajoutez un orbe pour vous aider à protéger votre vaisseau. Ramassez bonus et vies supplémentaires à travers le niveau qui se termine par l’extraterrestre qui vous attend.
+D:de:Teste Deine Fähigkeiten gegenüber teuflischen fremden Wesen und Raumschiffen. Sammle Smart-Bomben oder schieße die Bomben, um sie in verschiedene Waffen pick-ups zu verwandeln. Füge eine Kugel als zusätzliche Hilfe hinzu, um so Dein Schiff besser zu schützen. Erhalte Boni und zusätzliche Leben, indem Du durch die einzelnen Level springst, um schließlich den Alien-Host (Zeremonienmeister) zu erreichen, der Dich am Ende erwartet.
+D:es:Pon a prueba tus habilidades luchando contra seres alienígenas diabólicos y naves espaciales. Recoge bombas inteligentes o dispara a las bombas para convertirlas en diferentes armas que podrás recoger. Agrega una esfera para ayudar a proteger tu nave. Obtén bonificaciones y vidas extra mientras pasas cada nivel, alcanzando al anfitrión alienígena que te espera al final.
+D:it:Metti alla prova le tue abilità contro malvagi alieni e navette spaziali. Colleziona le bombe intelligenti o falle esplodere per trasformarle in diverse armi. Usa una sfera per proteggere la tua navetta. Conquista bonus e vite extra completando ogni livello, e raggiungi l’armata aliena che ti attende alla fine.
+A:Douglas Hare
+M:David Whitakker
+E:shoot
+Y:1988
+F:games/IO.vsf.gz
+C:covers/IO-cover.png
+G:screens/IO-00.png
+G:screens/IO-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

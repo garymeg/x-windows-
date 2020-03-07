@@ -1,0 +1,17 @@
+T:Avenger
+X:64,pal,sid6581
+D:en:Avenge your stepfather and take back the scrolls of Ketsuin from the wicked Yaemon. Your quest starts outside Quench Heart Keep. Find the keys to gain access to the keep. When you are inside, destroy the guardians but use your limited shuriken wisely. Collect treasure, scrolls and any items you find along the way. Escape from the keep and release Kwon to win.
+D:fr:Vengez votre beau-père et reprenez les parchemins de Ketsuin à l’horrible sorcière Yaemon. Votre quête commence à l’extérieur de la forteresse de Quench. Trouvez la clé pour y entrer. A l’intérieur, détruisez les gardes, mais attention vous avez un nombre limité de shurikens. Ramassez les trésors, les parchemins et tous les objets que vous trouverez. Echappez-vous de la forteresse et libérez Kwon pour gagner.
+D:de:Finde Deinen Stiefvater und hole Dir die Schriftrollen des bösen Yaemin von Ketsuin zurück . Deine Suche beginnt außerhalb von Quench Heart Keep. Finde den Schlüssel, um Zugang zum Keep zu gewinnen. Wenn Du drinnen bist, zerstöre die Wächter, aber benutze Deine Shuriken mit Bedacht. Sammle Schätze, Schriftrollen und alle Gegenstände, die Du auf dem Weg findest. Fliehe aus der Festung und befreie Kwon, um zu gewinnen.
+D:es:Venga a tu padrastro y recupera los pergaminos de Ketsuin del malvado Yaemon. Tu búsqueda comienza fuera de Quench Heart Keep. Encuentra las llaves para acceder a la fortaleza. Una vez dentro, destruye a los guardias pero utiliza tus limitados shuriken de forma sabia. Recauda tesoros, pergaminos y cualquier elemento que encuentres en el camino. Para ganar, escápate de la fortaleza y libera a Kwon.
+D:it:Vendica il tuo patrigno e riprenditi i rotoli di Ketsuin dal malvagio Yaemon. La tua missione parte da Quench Heart Keep. Trova le chiavi per accedervi. Una volta dentro, elimina i guardiani ma utilizza il tuo shuriken con giudizio, è limitato. Raccogli tesori, rotoli e qualsiasi oggetto trovi lungo il tuo cammino. Scappa e libera Kwon per vincere.
+A:Jason Perkins
+A:Mark Charles Rogers
+M:Ben Daglish
+E:maze
+Y:1987
+F:games/AVENGER.vsf.gz
+C:covers/AVENGER-cover.png
+G:screens/AVENGER-01.png
+G:screens/AVENGER-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,SP,JF,1,,,JF,,

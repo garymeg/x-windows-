@@ -1,0 +1,16 @@
+T:Ghostbusters
+X:64,pal,sid6581
+D:en:The player becomes chief of a "Ghostbuster commando", which is supposed to clean the town from a horde of cruel ghosts and close the "gate to the other world". The phantoms are attracted by the temple of Zuul. The mayor of this town entrusts you to investigate the paranormal appearances of the recent past and to eliminate the ghost threats for the inhabitants. With this mission and a seed capital of 10.000$ you tackle the task.
+D:fr:The player becomes chief of a "Ghostbuster commando", which is supposed to clean the town from a horde of cruel ghosts and close the "gate to the other world". The phantoms are attracted by the temple of Zuul. The mayor of this town entrusts you to investigate the paranormal appearances of the recent past and to eliminate the ghost threats for the inhabitants. With this mission and a seed capital of 10.000$ you tackle the task.
+D:de:The player becomes chief of a "Ghostbuster commando", which is supposed to clean the town from a horde of cruel ghosts and close the "gate to the other world". The phantoms are attracted by the temple of Zuul. The mayor of this town entrusts you to investigate the paranormal appearances of the recent past and to eliminate the ghost threats for the inhabitants. With this mission and a seed capital of 10.000$ you tackle the task.
+D:es:The player becomes chief of a "Ghostbuster commando", which is supposed to clean the town from a horde of cruel ghosts and close the "gate to the other world". The phantoms are attracted by the temple of Zuul. The mayor of this town entrusts you to investigate the paranormal appearances of the recent past and to eliminate the ghost threats for the inhabitants. With this mission and a seed capital of 10.000$ you tackle the task.
+D:it:Il giocatore è a capo di un "Commando di Ghostbuster" con il compito di pulire la città da un'orda di fantasmi crudeli e chiudere la porta per "L'Altro Mondo". I fantasmi sono attratti dal tempio di Zuul. Il sindaco della città ti affida le indagini sulle apparizioni paranormali recenti e l'eliminazione dei fantasmi minacciosi per gli abitanti. Con questa missione e un capitale iniziale di 10.000 $ dovrai affrontare il compito.
+A:David Crane
+M:Adam Bellin
+E:adventure
+Y:1984
+F:games/GHOSTBUSTERS.vsf.gz
+C:covers/GHOSTBUSTERS-cover.png
+G:screens/GHOSTBUSTERS-00.png
+G:screens/GHOSTBUSTERS-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,F3,SP,JF

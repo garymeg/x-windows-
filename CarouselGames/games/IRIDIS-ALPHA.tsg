@@ -1,0 +1,16 @@
+T:Iridis Alpha
+X:64,pal,sid6581
+D:en:Control a Gilby. Lose energy when you're hit. Gain energy when you destroy an enemy. Too little or too much energy and your Gilby explodes. Check your ship's color. Dark is low on energy, bright is high. Transfer or receive energy by landing at the Core area. There's so much more to this game.
+D:fr:Vous contrôlez un Gilby. Vous perdez de l'énergie si on vous touche. Vous regagnez de l'énergie en tuant des ennemis. Trop ou trop peu d'énergie feront exploser votre Gilby. Vérifiez la couleur de votre vaisseau (foncée pour faible en énergie et claire pour plein d'énergie). Transférez ou recevez de l'énergie en arrimant la zone centrale. Lisez les instructions en ligne pour découvrir comment jouer à ce jeu trépidant.
+D:de:Steuer einen Gilby. Du verlierst Energie ,wenn Du getroffen wirst und gewinnst Energie, wenn Du einen Feind vernichtest. Zu wenig oder zu viel Energie wird dazu führen, dass Gilby explodiert. Überprüfe Deine Schifffarbe (dunkel bedeutet zu wenig Energie, hell zuviel Energie). Übertrage oder erhalte Energie, indem Du im Kernbereich landest. Lies die vollständige Anleitung online durch, um zu entdecken, wie diese frenetischen Blaster zu spielen sind.
+D:es:Controla a un Gilby. Pierde energía cuando te golpean. Gana energía cuando destruyes a un enemigo. Demasiada o demasiada poca energía hará que tu Gilby explote. Comprueba el color de tu nave; si está oscuro tienen poca energía, si está brillante, mucha. Transfiere o recibe energía aterrizando en el área central. Lee las instrucciones completas en línea para aprender a jugar este frenético juego.
+D:it:Controlla un Gilby. Perderai energia se vieni colpito. Aumenterai di energia distruggendo i nemici. Troppo poca o troppa energia farà esplodere il tuo Gilby. Controlla il colore della tua nave (se scuro, la nave ha poca energia, se chiaro ne ha tanta). Trasferisci o ricevi energia atterrando nelle aree speciali. Leggi le istruzioni online per scoprire come giocare a questo videogame frenetico.
+A:Jeff Minter
+M:
+E:shoot
+Y:1986
+F:games/IRIDIS-ALPHA.vsf.gz
+C:covers/IRIDIS-ALPHA-cover.png
+G:screens/IRIDIS-ALPHA-01.png
+G:screens/IRIDIS-ALPHA-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,SP,,,JF,,

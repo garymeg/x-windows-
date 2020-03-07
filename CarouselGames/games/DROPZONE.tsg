@@ -1,0 +1,16 @@
+T:Dropzone
+X:64,pal,sid6581
+D:en:It's the year 2085 and your task is to protect the humans and their crystals against the murderous descendants from the Jupiter. You were equipped with the newest impulse laser backpack system, which can carry an additional man and can make itself (and its users) invisible and indesctructible for a short time. You need to bring back safely every survivor and its crystal to the "Dropzone", where the landing platform of the moon base is situated. The future of mankind depends on your success.
+D:fr:It's the year 2085 and your task is to protect the humans and their crystals against the murderous descendants from the Jupiter. You were equipped with the newest impulse laser backpack system, which can carry an additional man and can make itself (and its users) invisible and indesctructible for a short time. You need to bring back safely every survivor and its crystal to the "Dropzone", where the landing platform of the moon base is situated. The future of mankind depends on your success.
+D:de:It's the year 2085 and your task is to protect the humans and their crystals against the murderous descendants from the Jupiter. You were equipped with the newest impulse laser backpack system, which can carry an additional man and can make itself (and its users) invisible and indesctructible for a short time. You need to bring back safely every survivor and its crystal to the "Dropzone", where the landing platform of the moon base is situated. The future of mankind depends on your success.
+D:es:It's the year 2085 and your task is to protect the humans and their crystals against the murderous descendants from the Jupiter. You were equipped with the newest impulse laser backpack system, which can carry an additional man and can make itself (and its users) invisible and indesctructible for a short time. You need to bring back safely every survivor and its crystal to the "Dropzone", where the landing platform of the moon base is situated. The future of mankind depends on your success.
+D:it:È l'anno 2085 e il tuo compito è proteggere gli umani ed i loro cristalli dai discendenti assassini di Giove. Sei stato equipaggiato con il nuovissimo sistema di zaino laser ad impulsi, che può trasportare un uomo in più e può rendere se stesso (e il suo pilota) invisibile e indistruttibile per un breve periodo. Devi riportare in salvo ogni sopravvissuto e il suo cristallo alla "Dropzone", dove si trova la piattaforma di atterraggio della base lunare. Il futuro dell'umanità dipende dal tuo successo.
+A:Archer MacLean
+M: 
+E:shoot
+Y:1984
+F:games/DROPZONE.vsf.gz
+C:covers/DROPZONE-cover.png
+G:screens/DROPZONE-00.png
+G:screens/DROPZONE-01.png
+J:2*:JU,JD,JL,JR,JF,JF,SP,EN,EN,,,,SP

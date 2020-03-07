@@ -1,0 +1,16 @@
+T:Firelord
+X:64,pal,sid6581
+D:en:Explore the land of Torot. To release the firestone from the evil queen and return it to the dragon’s safekeeping, find the four charms of eternal youth. Dispel ghosts and trade with peasants. Others have objects or services you need, including weapons. Witches and wizards have useful spells and other characters have useful information.
+D:fr:Explorez le pays de Torot. Pour libérer les pierres de feu de la méchante reine et les ramener en lieu sûr chez le dragon, trouvez les quatre sorts de jeunesse éternelle. Débarrassez-vous des fantômes et commercez avec les paysans. D’autres possèdent des objets et services dont vous aurez besoin, y compris des armes. Les sorciers et magiciens ont des sorts utiles et d’autres personnages détiennent des informations essentielles.
+D:de:Entdecke das Land des Torot. Um den Feuerstein von der bösen Königin zurück zu gewinnen und ihn zur Aufbewahrung an den Drachen zurück zu geben, musst Du die vier Amulette ewiger Jugend finden. Beseitige Geister und verhandle mit Bauern. Andere wiederum haben Gegenstände oder Dienste, die Du benötigst, einschließlich Waffen. Hexen und Zauberer haben nützliche Zaubersprüche und wieder andere Charaktere besitzen nützliche Informationen.
+D:es:Explora la tierra de Torot. Para liberar la piedra de fuego de la malvada reina y devolverla a la custodia del dragón, encuentra los cuatro amuletos de la eterna juventud. Haz disipar a los fantasmas y haz negocios con los campesinos. Otros tienen objetos o servicios que necesitas, incluyendo armas. Las brujas y los magos tienen hechizos útiles y otros personajes tienen información útil.
+D:it:Esplora la terra di Totor. Per riprendere la pietra di fuoco in mano alla perfida regina e riportarla sotto la custodia del drago, cerca i 4 amuleti dell’eterna giovinezza. Scaccia i fantasmi e tratta coi contadini. Altri personaggi posseggono oggetti o offrono servizi che potranno servirti, armi incluse. Streghe e maghi hanno incantesimi utili e altri hanno informazioni.
+A:John Cumming
+M:Ben Daglish
+E:maze
+Y:1986
+F:games/FIRELORD.vsf.gz
+C:covers/FIRELORD-cover.png
+G:screens/FIRELORD-01.png
+G:screens/FIRELORD-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

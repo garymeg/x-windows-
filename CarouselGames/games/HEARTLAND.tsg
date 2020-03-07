@@ -1,0 +1,16 @@
+T:Heartland
+X:64,pal,sid6581
+D:en:Find six missing pages from the magical book of Heartland, destroy the six dark pages created by the dreaded warlock Midan and beware his followers. Their spells distract you from your goal. Your spells include a top hat, swords, fireballs, bubbles and stars. Collect the book first to help you find each page. The bed takes you to the next land.
+D:fr:Trouvez les six pages manquantes du livre magique de Heartland, détruisez les six pages noires créées par le terrible sorcier Midan et garre à ses fidèles ! Leurs sorts vous détournent de votre mission. Vos sorts comprennent un haut de forme, des épées, boules de feu, bulles et étoiles. Prenez d’abord le livre pour vous aider à trouver chaque page. Le lit vous conduit au niveau suivant.
+D:de:Finde die sechs fehlenden Seiten aus dem magischen Buch von Heartland. Zerstöre die sechs dunklen Seiten, die von dem gefürchteten Warlock Midan verfasst wurden und achte auf seine Anhänger. Seine Magie lenkt Dich von Deinem Ziel ab. Zu Deiner Zauberkraft gehören ein Hut, Schwerter, Feuerbälle, Blasen und Sterne. Hole Dir zuerst das Buch; es hilft Dir, die entsprechenden Seiten zu finden. Das Bett führt Dich in das nächste Land.
+D:es:Encuentra las seis páginas que faltan del libro mágico de Heartland, destruye las seis páginas oscuras creadas por el temido brujo Midan y ten cuidado con sus seguidores. Sus conjuros te distraerán de tu objetivo. Sus conjuros incluyen un sombrero de copa, espadas, bolas de fuego, burbujas y estrellas. Recoge primero el libro, que te ayudará a buscar cada página. La cama te lleva a la siguiente tierra.
+D:it:Trova le sei pagine mancanti del magico libro di Heartland, distruggi le sei pagine oscure create dallo spaventoso stregone Midan e fai attenzione a suoi seguaci. I loro incantesimi ti distrarranno dal raggiungere l’obiettivo. I tuoi incantesimi includono un cappello, spade, palle di fuoco, bolle e stelle. Raccogli il libro per poter poi trovare le pagine. Il letto ti porterà al prossimo livello.
+A:Keith Robinson
+M:Keith Tinman
+E:platform
+Y:1986
+F:games/HEARTLAND.vsf.gz
+C:covers/HEARTLAND-cover.png
+G:screens/HEARTLAND-00.png
+G:screens/HEARTLAND-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

@@ -1,0 +1,16 @@
+T:Cyberdyne Warrior
+X:64,pal,sid6581
+D:en:You are the last cyberdyne warrior. Locate droids on each of three planets and return them to the satellite. Destroy inhabitants with your machine gun to reach the droids. Purchase energy by collecting coins and transporting to the satellite with a droid. Delay the droids activated self-destruct mechanisms to get you more time.
+D:fr:Vous êtes le dernier guerrier Cyberdyne. Trouvez les droides sur les trois planètes et ramenez-les au satellite. Tuez les habitants avec votre mitraillette pour atteindre les droides. Achetez de l’énergie avec les pièces et rapportez-la au satellite avec un droide. Retardez le compte à rebours des droides pour vous donner plus de temps.
+D:de:Du bist der letzte „Cyberdyne Krieger“. Finde Droiden auf jedem der drei Planeten und bringe sie zum Satelliten. Zerstöre Einwohner mit Deinem Maschinengewehr, um die Droiden zu erreichen. Kaufe Energie durch Sammeln von Münzen und zum Transport zu den Satelliten der Droiden. Verzögere den Selbstzerstörungsmechanismus der Droiden, um mehr Zeit zu gewinnen.
+D:es:Eres el último guerrero cyberdyne. Ubica a los androides en cada uno de los tres planetas y devuélvelos al satélite. Para llegar a los androides, destruye a los habitantes con tu metralleta. Compra energía recolectando monedas y transportándolas al satélite con la ayuda de un androide. Retrasa los mecanismos de autodestrucción activados por los androides para conseguir más tiempo.
+D:it:Sei l’ultimo guerriero cyberdyne. Localizza i droidi di tre pianeti e riportali al satellite. Distruggi gli abitanti con la tua mitragliatrice per poter liberare i droidi. Acquisisci energia collezionando monete e trasportandole sul satellite con un droide. Guadagna tempo, modificando il sistema di auto-distruzione dei droidi.
+A:John Rowlands
+M:Steve Rowlands
+E:platform
+Y:1989
+F:games/CYBERDYNE-WARRIOR.vsf.gz
+C:covers/CYBERDYNE-WARRIOR-cover.png
+G:screens/CYBERDYNE-WARRIOR-01.png
+G:screens/CYBERDYNE-WARRIOR-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,
