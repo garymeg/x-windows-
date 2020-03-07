@@ -1,0 +1,16 @@
+T:Re-Bounder
+X:64,pal,sid6581
+D:en:Bounder is back! Again your in control of a tennis ball, that bounces and bounces and bounces... This time you must collect smart bombs to finish the game. You need to collect all of them: 16 smart bombs. Avoid bad stuff for landing like sand, spikes, traps or enemies. Unknown squares, signed with an "?" awaiting you: sometimes helpful (higher/longer jumps, extra-time and soon) - other times they're traps too.
+D:fr:Bounder is back! Again your in control of a tennis ball, that bounces and bounces and bounces... This time you must collect smart bombs to finish the game. You need to collect all of them: 16 smart bombs. Avoid bad stuff for landing like sand, spikes, traps or enemies. Unknown squares, signed with an "?" awaiting you: sometimes helpful (higher/longer jumps, extra-time and soon) - other times they're traps too.
+D:de:Bounder is back! Again your in control of a tennis ball, that bounces and bounces and bounces... This time you must collect smart bombs to finish the game. You need to collect all of them: 16 smart bombs. Avoid bad stuff for landing like sand, spikes, traps or enemies. Unknown squares, signed with an "?" awaiting you: sometimes helpful (higher/longer jumps, extra-time and soon) - other times they're traps too.
+D:es:Bounder is back! Again your in control of a tennis ball, that bounces and bounces and bounces... This time you must collect smart bombs to finish the game. You need to collect all of them: 16 smart bombs. Avoid bad stuff for landing like sand, spikes, traps or enemies. Unknown squares, signed with an "?" awaiting you: sometimes helpful (higher/longer jumps, extra-time and soon) - other times they're traps too.
+D:it:Bounder è tornato! Hai di nuovo il controllo di una palla da tennis, che rimbalza, rimbalza e rimbalza... Questa volta devi raccogliere delle bombe per completare il gioco, devi collezionarle tutte e 16. Attenzione a dove atterri evitando sabbia, spuntoni, trappole o nemici. Piastrelle sconosciute, riconoscibili con un "?" ti aspettano: a volte sono utili (salti più alti / più lunghi, extra-time e altro) - altre volte sono trappole.
+A:Christian Shrigley, Robert Toone
+M:Ben Daglish
+E:platform
+Y:1987
+F:games/REBOUNDER.vsf.gz
+C:covers/REBOUNDER-cover.png
+G:screens/REBOUNDER-00.png
+G:screens/REBOUNDER-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF

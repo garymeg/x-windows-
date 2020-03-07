@@ -1,0 +1,16 @@
+T:The Sentinel
+X:64,pal,sid6581
+D:en:How can you describe The Sentinel? I’ll give it a try: a three-dimensional hide-and-seek game from the 1st person perspective in a surreal-looking chessboard-like landscape. The aim is to absorb as much energy as possible and finally to absorb the watcher that is positioned at the highest point of the level.
+D:fr:How can you describe The Sentinel? I’ll give it a try: a three-dimensional hide-and-seek game from the 1st person perspective in a surreal-looking chessboard-like landscape. The aim is to absorb as much energy as possible and finally to absorb the watcher that is positioned at the highest point of the level.
+D:de:How can you describe The Sentinel? I’ll give it a try: a three-dimensional hide-and-seek game from the 1st person perspective in a surreal-looking chessboard-like landscape. The aim is to absorb as much energy as possible and finally to absorb the watcher that is positioned at the highest point of the level.
+D:es:How can you describe The Sentinel? I’ll give it a try: a three-dimensional hide-and-seek game from the 1st person perspective in a surreal-looking chessboard-like landscape. The aim is to absorb as much energy as possible and finally to absorb the watcher that is positioned at the highest point of the level.
+D:it:Come si può descrivere The Sentinel? Facciamo un tentativo: un gioco a nascondino tridimensionale dalla prospettiva in prima persona in un paesaggio simile a una scacchiera surreale. L'obiettivo è quello di assorbire più energia possibile e, infine, di assorbire la sentinella che si trova nel punto più alto del livello.
+A:Geoff Crammond
+M:Geoff Crammond
+E:maze
+Y:1986
+F:games/THESENTINEL.vsf.gz
+C:covers/THESENTINEL-cover.png
+G:screens/THESENTINEL-00.png
+G:screens/THESENTINEL-01.png
+J:2*:L,N,S,D,SP,SP,A,Q,Q,R,B,T,A

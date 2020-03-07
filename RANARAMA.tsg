@@ -1,0 +1,16 @@
+T:Ranarama
+X:64,pal,sid6581
+D:en:Mervyn has been changed into a frog. Trapped in a dungeon with evil warlocks and minions, he must escape. Explore rooms and find warlocks. Shoot minions and weapon generators. Bump a warlock and quickly rearrange letters to spell Rana Rama. Magical floor glyphs destroy opponents, show maps, reveal new spells and allow travel to new dungeon levels.
+D:fr:Mervyn a été changé en grenouille. Enfermé dans un donjon avec d’horribles sorciers et leurs larbins, il doit s’échapper. Explorez les pièces et trouvez les sorciers. Tirez sur les petits ennemis et les générateurs d’armes. Touchez un sorcier et réagencez les lettres pour former le sort Rana Rama. Les symboles magiques au sol détruisent vos ennemis, montrent les cartes, dévoilent de nouveaux sorts et vous permettent de voyager dans de nouveaux niveaux du donjon.
+D:de:Mervyn wurde in einen Frosch verwandelt. Er muss aus seinem Kerker mit bösen Zauberern und Kreaturen fliehen, in dem er gefangen ist. Überprüfe alle Zimmer und finde Warlocks. Schieße auf Minions und Waffengeneratoren. Stoße einen Warlok an und ordne die Buchstaben schnell in die richtige Reihenfolge, um das Wort Rana Rama zu buchstabieren. Magische Bodenglyphen zerstören Gegner, zeigen Karten, offenbaren neue Magie und erlauben die Reise zu einem neuen Kerkerlevel.
+D:es:Mervyn se ha convertido en una rana. Está atrapado en una mazmorra con brujos malvados y sus subordinados, y tiene que escapar. Explora las salas y encuentra a los brujos. Dispara a los subordinados y a los generadores de armas. Golpea a un brujo y rápidamente reordena las letras para deletrear Rana Rama. Los jeroglíficos mágicos del suelo destruyen a los enemigos, muestran mapas, revelan nuevos acertijos y permiten viajar a nuevos niveles de la mazmorra.
+D:it:Mervyn è stato trasformato in rana. Intrappolato in una segreta con stregoni malvagi e nani, deve assolutamente scappare. Esplora le stanze e trova gli stregoni. Spara ai nani e ai generatori di armi. Salta sopra gli stregoni e riordina le lettere per formare l’espressione Rana Rama. Glifi magici distruggono i nemici, mostrano mappe, rivelano nuovi incantesimi e permettono di muoversi verso altri livelli delle segrete.
+A:Gary J.Foreman
+M:Steve Turner
+E:shoot
+Y:1987
+F:games/RANARAMA.vsf.gz
+C:covers/RANARAMA-cover.png
+G:screens/RANARAMA-01.png
+G:screens/RANARAMA-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

@@ -1,0 +1,19 @@
+T:Sams
+X:64,pal,sid6581
+D:en:Guide Sam through many different locations such as deep forests, hot deserts or frozen mountains! Find hidden gems and discover secret passages, but beware of the creatures!
+D:fr:Guide Sam through many different locations such as deep forests, hot deserts or frozen mountains! Find hidden gems and discover secret passages, but beware of the creatures!
+D:de:Guide Sam through many different locations such as deep forests, hot deserts or frozen mountains! Find hidden gems and discover secret passages, but beware of the creatures!
+D:es:Guide Sam through many different locations such as deep forests, hot deserts or frozen mountains! Find hidden gems and discover secret passages, but beware of the creatures!
+D:it:Guide Sam through many different locations such as deep forests, hot deserts or frozen mountains! Find hidden gems and discover secret passages, but beware of the creatures!
+A:Protovision
+M:Protovision
+E:Platform
+Y:2017
+F:games/Sams.crt.gz
+C:covers/Sams.png
+G:screens/Sams-00.png
+G:screens/Sams-01.png
+G:screens/Sams-02.png
+G:screens/Sams-03.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,F1,JF,F2,F3,F4,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,F1,JF,F2,F3,F4,JF,,

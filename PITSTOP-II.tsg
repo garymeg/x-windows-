@@ -1,0 +1,18 @@
+T:Pitstop II
+X:64,pal,truedrive,driveicon,sid6581
+D:en:Winning a race requires strategy, determination and guts. Drive as hard as you can, but watch the changing color of your tires and how much fuel you have left. Balance speed against fuel consumption and tire wear, and know when to make a pitstop. Drive into the pitstop lane, control each pit crew member and learn to make the changes fast.
+D:fr:Pour gagner une course, il faut une stratégie, de la détermination et du cran. Roulez du mieux que vous pouvez mais attention à la couleur de vos pneux et ce qui vous reste de carburant. Trouvez l’équilibre entre la vitesse, la consommation d’essence et l’usure des pneux, et sachez quand il faut vous arrêter. A la zone de ravitaillement, contrôlez chaque membre de l’équipe et apprenez à faire les réparations rapidement.
+D:de:Um zu gewinnen braucht man: Rennstrategie, Entschlossenheit und Mut. Fahre so extrem wie Du kannst, aber achte auf die Veränderung der Farbe Deiner Reifen und wieviel Kraftstoff Du verbrauchst. Finde ein Mittelmaß zwischen Geschwindigkeit, Kraftstoffverbrauch und Reifenverschleiß und wann es nötig ist, einen Pitstop einzulegen. Fahre in die Pitstop-Spur und kontrolliere jedes Pitstop-Crew-Mitglied, um zu lernen, wie man effizient arbeitet.
+D:es:Para ganar una carrera se requiere estrategia, determinación y agallas. Conduce lo más rápido que puedas, pero fíjate en el color cambiante de tus neumáticos y en cuánto combustible te queda. Encuentra el equilibrio entre la velocidad, el consumo de carburante y el desgaste de los neumáticos y sabe cuándo hacer una parada técnica. Conduce en el carril de boxes, controla a cada miembro del equipo técnico y aprende a hacer los cambios de forma rápida.
+D:it:Vincere una corsa richiede strategia, determinazione e audacia. Guida al limite, ma osserva i colori dei tuoi pneumatici che cambiano e quanto carburante è rimasto. Bilancia velocità, consumo carburante e consumo pneumatici, e programma il pitstop al momento giusto. Guida nella pit lane, controlla i membri della squadra e impara a cambiare le gomme in velocità.
+A:Dennis Caswell
+A:Stephen H. Landrum
+M:
+E:driving
+Y:1984
+F:games/PITSTOP-II.vsf.gz
+C:covers/PITSTOP-II-cover.png
+G:screens/PITSTOP-II-00.png
+G:screens/PITSTOP-II-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,EN,JF,,,,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,EN,JF,,,,JF,,

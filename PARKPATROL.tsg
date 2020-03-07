@@ -1,0 +1,17 @@
+T:Park Patrol
+X:64,pal,truedrive,driveicon,readonly,sid6581
+D:en:In the Poconose National Park all hell is loose: Careless tourists have littered the whole area with cans, bottles and gummi balls and they also bath in the only reserve of the swamp pink snake that is left. If something goes wrong there, there will be lots of trouble with the tourist association. Therefore they are looking for competent boys and girls who want to fill in the post of park guard. A motor rubber boat, snake defence spray and supply are provided and all the animals are totally grateful that somebody helps them!
+D:fr:In the Poconose National Park all hell is loose: Careless tourists have littered the whole area with cans, bottles and gummi balls and they also bath in the only reserve of the swamp pink snake that is left. If something goes wrong there, there will be lots of trouble with the tourist association. Therefore they are looking for competent boys and girls who want to fill in the post of park guard. A motor rubber boat, snake defence spray and supply are provided and all the animals are totally grateful that somebody helps them!
+D:de:In the Poconose National Park all hell is loose: Careless tourists have littered the whole area with cans, bottles and gummi balls and they also bath in the only reserve of the swamp pink snake that is left. If something goes wrong there, there will be lots of trouble with the tourist association. Therefore they are looking for competent boys and girls who want to fill in the post of park guard. A motor rubber boat, snake defence spray and supply are provided and all the animals are totally grateful that somebody helps them!
+D:es:In the Poconose National Park all hell is loose: Careless tourists have littered the whole area with cans, bottles and gummi balls and they also bath in the only reserve of the swamp pink snake that is left. If something goes wrong there, there will be lots of trouble with the tourist association. Therefore they are looking for competent boys and girls who want to fill in the post of park guard. A motor rubber boat, snake defence spray and supply are provided and all the animals are totally grateful that somebody helps them!
+D:it:Nel Poconose National Park è tutto allo sbando: i turisti hanno disseminato l'intera area di lattine, bottiglie e palline di gomma e fanno il bagno anche nell'unica riserva del serpente rosa di palude che rimane. Se qualcosa va storto, ci saranno molti problemi con l'associazione turistica. Perciò stanno cercando ragazzi e ragazze competenti che vogliano occupare il posto di guardia del parco. Un gommone a motore, spray per la difesa dal serpente e rifornimento sono forniti e tutti gli animali sono grati che qualcuno li aiuti!
+A:Tony Ngo
+M:Russell Lieblich
+E:platform
+Y:1984
+F:games/PARKPATROL.vsf.gz
+C:covers/PARKPATROL-cover.png
+G:screens/PARKPATROL-00.png
+G:screens/PARKPATROL-01.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,F3,F5,JF
+J:2:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,F3,F5,JF

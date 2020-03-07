@@ -1,0 +1,17 @@
+T:Spindizzy
+X:64,pal,sid6581
+D:en:Control G.E.R.A.L.D. and map the strange artificial world discovered in a new dimension. Move around collecting jewels for energy. Use switches when necessary. Because this world is hanging in space, do not drop off the edge. Move quickly but carefully to complete your mission. Bring G.E.R.A.L.D. to a halt, view a map or change its shape. Remember, time is money.
+D:fr:Controlez G.E.R.A.L.D. et cartographiez l’étrange monde artificiel de cette nouvelle dimension. Ramassez les joyaux pour avoir de l’énergie. Activez les interrupteurs quand c’est nécessaire. Comme ce monde flotte dans l’espace, ne tombez pas ! Déplacez vous rapidement mais prudemment pour mener à bien votre mission. Arrêtez G.E.R.A.L.D., consultez la carte, changez de forme. Mais n’oubliez pas, le temps, c’est de l’argent.
+D:de:Kontrolliere G.E.R.A.L.D. und stelle die entdeckte fremde und künstliche Welt in einer neuen Dimension auf der Karte dar. Bewege dich, um Juwelen als Energievorrat zu sammeln. Verwende die Schalter falls notwendig. Weil diese Welt im Raum hängt, lasse sie nicht über den Rand hinausfallen. Bewege dich schnell, aber vorsichtig, um die Mission zu vollenden. Halte G.E.R.A.L.D. auf und werfe einen Blick auf die Landkarte, oder ändere die Form. Vergiss nicht: Zeit ist Geld.
+D:es:Controla a G.E.R.A.L.D. y crea el mapa del extraño mundo artificial descubierto en una nueva dimensión. Muévete recogiendo joyas para obtener energía. Utiliza los interruptores cuando sea necesario. Este mundo está colgado en el espacio, por lo que no debes caerte por el borde. Muévete rápidamente pero con cuidado para completar tu misión. Trae a G.E.R.A.L.D. a una parada, visiona un mapa o cambia su forma. Recuerda, el tiempo es dinero.
+D:it:Guida G.E.R.A.L.D. e traccia una mappa di questo strano mondo artificiale, scoperto in una nuova dimensione. Esplora e raccogli gioielli che ti danno energia. Utilizza gli interruttori quando necessario. Dato che questo mondo è sospeso nello spazio, non saltare fuori dai bordi. Muoviti velocemente ma con attenzione per completare la tua missione. Guida G.E.R.A.L.D. a destinazione, visualizza la mappa o cambia forma. Ricorda, il tempo è denaro.
+A:Paul Shirley
+M:
+E:puzzle
+Y:1986
+F:games/SPINDIZZY.vsf.gz
+C:covers/SPINDIZZY-cover.png
+G:screens/SPINDIZZY-01.png
+G:screens/SPINDIZZY-02.png
+J:2*:JU,JD,JL,JR,JF,JF,SP,F3,JF,M,I,S,JF,,
+J:1:JU,JD,JL,JR,JF,JF,SP,F3,JF,M,I,S,JF,,

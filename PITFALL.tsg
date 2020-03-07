@@ -1,0 +1,16 @@
+T:Pitfall!
+X:64,pal,sid6581
+D:en:Guide Pitfall Harry through a treacherous jungle maze. He must leap over obstacles and dodge deadly dangers while grabbing all the treasure he can reach! You start each adventure with 2000 points. If you fall down a hole you will lose 100 points. Rolling logs also cause point loss; how much depends on how long contact is made with them. Finding treasure earns you points. There are eight of each type of treasure in the game, 32 in all, worth a total of 112000 points. Collect them all!
+D:fr:Guide Pitfall Harry through a treacherous jungle maze. He must leap over obstacles and dodge deadly dangers while grabbing all the treasure he can reach! You start each adventure with 2000 points. If you fall down a hole you will lose 100 points. Rolling logs also cause point loss; how much depends on how long contact is made with them. Finding treasure earns you points. There are eight of each type of treasure in the game, 32 in all, worth a total of 112000 points. Collect them all!
+D:de:Guide Pitfall Harry through a treacherous jungle maze. He must leap over obstacles and dodge deadly dangers while grabbing all the treasure he can reach! You start each adventure with 2000 points. If you fall down a hole you will lose 100 points. Rolling logs also cause point loss; how much depends on how long contact is made with them. Finding treasure earns you points. There are eight of each type of treasure in the game, 32 in all, worth a total of 112000 points. Collect them all!
+D:es:Guide Pitfall Harry through a treacherous jungle maze. He must leap over obstacles and dodge deadly dangers while grabbing all the treasure he can reach! You start each adventure with 2000 points. If you fall down a hole you will lose 100 points. Rolling logs also cause point loss; how much depends on how long contact is made with them. Finding treasure earns you points. There are eight of each type of treasure in the game, 32 in all, worth a total of 112000 points. Collect them all!
+D:it:Guida Pitfall Harry attraverso una giungla di infidi labirinti. Dovrai saltare gli ostacoli e schivare i pericoli mentre afferri tutto il tesoro che puoi raggiungere! L'avventura inizia con 2000 punti. Se cadi in un buco perderai 100 punti. Anche i tronchi rotolanti causano la perdita di punti; quanti punti dipende dalla durata del contatto con loro. Trovare un tesoro ti farà guadagnare punti. Ci sono otto tipi di tesoro nel gioco, 32 in tutto, per un totale di 112000 punti. Collezionali tutti!
+A:David Crane
+M:Tim Shotter
+E:platform
+Y:1983
+F:games/PITFALL.vsf.gz
+C:covers/PITFALL-cover.png
+G:screens/PITFALL-00.png
+G:screens/PITFALL-01.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,,,JF

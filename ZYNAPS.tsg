@@ -1,0 +1,17 @@
+T:Zynaps
+X:64,pal,sid6581
+D:en:Fly your scorpion fighter and blast your pulse lasers through wave after wave of alien ships. To activate your additional equipment (speedup, firepower, bombs, missiles, seekers) collect enough fuel to highlight the equipment, then push and hold FIRE and collect one more fuel canister. Reach the alien stronghold and destroy it.
+D:fr:Faîtes voler votre vaisseau Scorpion et détruisez à coup de laser les vagues d’ennemis qui se succèdent. Pour activer votre équipement complémentaire (vitesse, puissance de feu, bombes, missiles, têtes chercheuses), ramassez suffisamment de carburant jusqu’à sélectionner l’équipement. Appuyez ensuite sur FEU et trouver un dernier bloc de carburant. Atteignez la forteresse extraterrestre et rasez-la.
+D:de:Fliege Deinen Scorpion-Fighter und ziele jeden pulsgesteurten Laserstrahl direkt in Flotte der Aliens. Du kannst zusätzliche Ausrüstung aktivieren (Speedup, Firepower, Bomben, Raketen, Sucher). Nimm ausreichend Treibstoff mit, um die gewünschte Ausrüstung zu markieren. Halte die FIRE Taste gedrückt und nimm noch einen weiteren Brennstoffkanister mit. Erreiche die Alien-Hochburg und zerstöre sie.
+D:es:Haz volar a tu luchador escorpión y dispara tus láseres enfrentándote a naves alienígenas. Para activar tu equipo adicional (aceleración, poder del fuego, bombas, misiles, buscadores) recoge el suficiente combustible para resaltar el equipo, a continuación pulsa y mantén pulsado FUEGO y recoge más botes de combustible. Llega a la fortaleza alienígena y destrúyela.
+D:it:Pilota il tuo Scorpion Fighter e spara i tuoi laser su ondate e ondate di navi aliene. Per attivare le altre opzioni (velocità, potenza di fuoco, bombe, missili, radar) accumula abbastanza carburante così da poterle utilizzare, poi mantieni premuto FIRE e raccogli un’altra bombola di carburante. Raggiungi la fortezza aliena e distruggila.
+A:John Cumming
+M:Nigel Grieve
+E:shoot
+Y:1987
+F:games/ZYNAPS.vsf.gz
+C:covers/ZYNAPS-cover.png
+G:screens/ZYNAPS-01.png
+G:screens/ZYNAPS-02.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,F3,,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,EN,JF,F1,F3,,JF,,

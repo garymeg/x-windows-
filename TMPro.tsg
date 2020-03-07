@@ -1,0 +1,17 @@
+T:Turbo Macro Pro
+X:64,pal,sid6581
+D:en:TMPx (pronounced "T-M-P cross") is the multiplatform cross assembler version of Turbo Macro Pro, itself derived from the famous Turbo Assembler series for the native C64. TMPx was the first cross assembler released with full support for the syntax of Turbo Macro Pro (i.e. same as the original Turbo Assembler Macro). Our goal is to make TMPx as accurate as possible at the semantic level when assembling sources that are written against its native counterparts. TMPview is a viewer/converter that inputs a binary format Turbo Assembler source code and outputs the ASCII equivalent in a format suitable as input for our cross assembler, TMPx. 
+D:fr:TMPx (pronounced "T-M-P cross") is the multiplatform cross assembler version of Turbo Macro Pro, itself derived from the famous Turbo Assembler series for the native C64. TMPx was the first cross assembler released with full support for the syntax of Turbo Macro Pro (i.e. same as the original Turbo Assembler Macro). Our goal is to make TMPx as accurate as possible at the semantic level when assembling sources that are written against its native counterparts. TMPview is a viewer/converter that inputs a binary format Turbo Assembler source code and outputs the ASCII equivalent in a format suitable as input for our cross assembler, TMPx. 
+D:de:TMPx (pronounced "T-M-P cross") is the multiplatform cross assembler version of Turbo Macro Pro, itself derived from the famous Turbo Assembler series for the native C64. TMPx was the first cross assembler released with full support for the syntax of Turbo Macro Pro (i.e. same as the original Turbo Assembler Macro). Our goal is to make TMPx as accurate as possible at the semantic level when assembling sources that are written against its native counterparts. TMPview is a viewer/converter that inputs a binary format Turbo Assembler source code and outputs the ASCII equivalent in a format suitable as input for our cross assembler, TMPx. 
+D:es:TMPx (pronounced "T-M-P cross") is the multiplatform cross assembler version of Turbo Macro Pro, itself derived from the famous Turbo Assembler series for the native C64. TMPx was the first cross assembler released with full support for the syntax of Turbo Macro Pro (i.e. same as the original Turbo Assembler Macro). Our goal is to make TMPx as accurate as possible at the semantic level when assembling sources that are written against its native counterparts. TMPview is a viewer/converter that inputs a binary format Turbo Assembler source code and outputs the ASCII equivalent in a format suitable as input for our cross assembler, TMPx. 
+D:it:TMPx (pronounced "T-M-P cross") is the multiplatform cross assembler version of Turbo Macro Pro, itself derived from the famous Turbo Assembler series for the native C64. TMPx was the first cross assembler released with full support for the syntax of Turbo Macro Pro (i.e. same as the original Turbo Assembler Macro). Our goal is to make TMPx as accurate as possible at the semantic level when assembling sources that are written against its native counterparts. TMPview is a viewer/converter that inputs a binary format Turbo Assembler source code and outputs the ASCII equivalent in a format suitable as input for our cross assembler, TMPx. 
+A:Style64
+M: 
+E:Programming
+Y:2006
+F:games/TMPro.vsf.gz
+C:covers/TMPro.png
+G:screens/TMPro-00.png
+G:screens/TMPro-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,F1,JF,F2,F3,F4,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,F1,JF,F2,F3,F4,JF,,
