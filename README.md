@@ -59,7 +59,8 @@ click on 2.the64-usbmod.sh if using 2 partitions and wanting to run carousel fro
 
 
 needed for db9-2-usb
-now click on 3.the64-db9-2-usb-flashmem to add db9-2-usb files to theC64
+next
+click on 3.the64-db9-2-usb-flashmem to add db9-2-usb files to theC64
 or
 click on 3.the64-db9-2-usb-usb to add db9-2-usb files to theC64 usb and flashmem (only if done optional above)
 
