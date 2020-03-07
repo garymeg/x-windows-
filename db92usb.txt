@@ -1,0 +1,2 @@
+
+03000000828200000132000001010000,DB9-2-USB,a:b4,b:b5,back:b6,lefttrigger:b0,leftx:a0,lefty:a1,righttrigger:b1,start:b7,x:b3,y:b2,platform:Linux,
