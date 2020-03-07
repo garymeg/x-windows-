@@ -55,6 +55,9 @@ when your usb stick is plugged in you get a custom carousel
 when a single partition usb stick or no usbstick is plugged in you get a stock TheC64
 
 click on 2.the64-usbmod.sh if using 2 partitions and wanting to run carousel from usb
+
+if you want my games click on 
+4.install usb games.sh
 *************************************************************************************
 
 
