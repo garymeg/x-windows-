@@ -1,0 +1,12 @@
+# <file system>	<mount pt>	<type>	<options>	<dump>	<pass>
+/dev/root	/		ext2	rw,noauto	0	1
+/dev/sda2 /mnt2 vfat rw,nofail 0 0
+/mnt2/usr/share/the64 /usr/share/the64 none bind,nofail 0 0
+/mnt2/usr/lib/vice /usr/lib/vice none bind,nofail 0 0
+/mnt2/var/lib/the64 /var/lib/the64 none bind,nofail 0 0
+proc		/proc		proc	defaults	0	0
+devpts		/dev/pts	devpts	defaults,gid=5,mode=620	0	0
+tmpfs		/dev/shm	tmpfs	mode=0777	0	0
+tmpfs		/tmp		tmpfs	mode=1777	0	0
+tmpfs		/run		tmpfs	mode=0755,nosuid,nodev	0	0
+sysfs		/sys		sysfs	defaults	0	0
