@@ -1,0 +1,16 @@
+T:Attack of the Mutant Camels
+X:64,pal,sid6581
+D:en:Planet earth needs you. Hostile aliens have mutated camels into 90 foot high, neutronium shielded, laser-spitting death camels! Can you fly your tiny fighter over the landscape to weaken and destroy the camels before they invade the human stronghold?
+D:fr:La Terre a besoin de vous. Des extraterrestres hostiles ont transmuté les dromadaires en dromadaires de la mort, hauts de 30m, tirant des lasers et protégés par des neutrinos! Saurez-vous piloter votre petit chasseur à travers le pays pour affaiblir et détruire les dromadaires avant qu'ils n'envahissent la forteresse humaine ?
+D:de:Die Erde braucht dich. Feidllich gestimmte Aliens haben Kamele in 30 Meter Große, laserspuckende und mit Neutronenschilde ausgestattete Todestiere mutiert! Schaffst Du es, Dein kleines Kampfflugzeug durch die Landschaft zu jagen, um die Kamele zu schwächen und zu zerstören, bevor Sie in die Festung der Menschheit eindringen?
+D:es:El planeta Tierra te necesita. Unos malvados alienígenas han producido mutaciones en los camellos para que alcancen casi 30 metros de altura, desarrollen un escudo de neutronio, y escupan un láser mortal! ¿Podrás sobrevolar el paisaje con tu diminuto avión de combate para debilitarlos y destruirlos antes de que invadan la fortaleza de los humanos?
+D:it:Il Pianeta Terra ha bisogno di te. Alieni malvagi hanno trasformato normali cammelli in cammelli alti 30 metri che sputano raggi laser e con corazze al neutronio! Saprai far volare il tuo piccolo caccia e distruggere i cammelli prima che invadano e sconfiggano l'umanità?
+A:Jeff Minter
+M:
+E:shoot
+Y:1983
+F:games/AMC.vsf.gz
+C:covers/AMC-cover.png
+G:screens/AMC-01.png
+G:screens/AMC-02.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,F3,F5,JF,,

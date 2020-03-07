@@ -1,0 +1,17 @@
+T:Alleykat
+X:64,pal,sid6581
+D:en:It’s the Alleykat racing season. Can you become the champion? Compete in eight orbiting space stadia. Choose from demolition derbies, time trials, endurance epics and other battles. Spin your multi-mode alleykat speeder past the cavorting katerkiller. Gyrate round the gripping gravo-craft. Can you join the best speeder pilots in the alleykat finale?
+D:fr:La saison de la course Alleykat a repris. Serez-vous le nouveau champion ? Entrez en compétition dans les huit stades en orbite. Choisissez entre un demolition derby, des courses contre la montre, des courses d’endurance et d’autres batailles. Maniez votre vaisseau alleykat entre les cabrioles des katerkillers. Accrochez-vous dans la course contre les autres vaisseaux. Réussirez-vous à rejoindre les meilleurs compétiteurs de la finale Alleykat ?
+D:de:Es ist Alleykat Rennsaison. Kannst Du der nächste Champion werden? Konkurriere in acht Weltraumstadien. Wähle zwischen Derbys, Zeitfahren, Ausdauer Epen und anderen Schlachten. Schleuder Deinen Multi-Mode-Alleykat-Speeder über die herumspringenden Katerkiller. Kreisel um die packende Gravo-Craft. Kannst Du als bester Speedpilot am Alleykat-Finale teilnehmen?
+D:es:Es la temporada de las carreras de alleykat. ¿Podrás ganar? Compite en ocho estadios espaciales en órbita. Elije entre derbis de demolición, pruebas de tiempo, epopeyas de resistencia y otras batallas. Haz girar tu alleykat multi-modal más allá del katerkiller. Rota alrededor de la fascinante nave-gravo. ¿Podrás unirte a los mejores pilotos en la final de alleykat?
+D:it:È la stagione delle corse di Alleykat. Riuscirai a diventare il campione? Competi in otto stadi spaziali orbitali. Scegli tra gare di demolizione, prove a tempo, prove di resistenza e altri tipi. Guida a tutta velocità il tuo Alleykat ed evita il frenetico Katerkiller. Gira attorno alla Grafo-craft. Riuscirai ad arrivare a competere coi più veloci nella finale?
+A:Andrew Braybrook
+M:Steve Turner
+E:shoot
+Y:1986
+F:games/ALLEYKAT.vsf.gz
+C:covers/ALLEYKAT-cover.png
+G:screens/ALLEYKAT-00.png
+G:screens/ALLEYKAT-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,F1,JF,F2,F3,F4,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,F1,JF,F2,F3,F4,JF,,

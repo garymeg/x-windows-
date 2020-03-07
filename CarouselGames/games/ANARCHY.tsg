@@ -1,0 +1,16 @@
+T:Anarchy
+X:64,pal,sid6581
+D:en:You have two minutes in each building to drive your tank and destroy all weapons containers, avoiding the guard droids. When all containers are destroyed, you can drive deeper into the rebels’ ammunition dump. Every fifth building contains captured nuclear weapons, guarded by a special security droid. Good luck on your mission.
+D:fr:Vous disposez de deux minutes dans chaque bâtiment pour manœuvrer votre tank et détruire tous les containers d’armes en faisant attention aux droides qui montent la garde. Quand tous les containers sont détruits, aventurez-vous plus en profondeur dans la base rebelle. Tous les cinq bâtiments se cache une arme nucléaire protégée par un droide spécial. Bonne chance dans votre mission.
+D:de:Du hast zwei Minuten in jedem Gebäude, um Deine Panzer einzusetzen und alle Waffencontainer zu zerstören, vermeide aber die Droidenwache. Wenn alle Container zerstört sind, kannst Du weiter zum Munitionslager der Rebellen vordringen. Jedes fünfte Gebäude enthält erbeutete Atomwaffen, bewacht von einem speziellen Sicherheitsdroiden. Viel Glück auf Deiner Mission.
+D:es:Cuentas con dos minutos en cada edificio para conducir tu tanque y destruir todos los contenedores de armas, evitando a los guardianes androides. Cuando todos los contenedores estén destruidos, puedes adentrarte en el depósito de municiones de los rebeldes. Cada quinto edificio contiene armas nucleares capturadas, custodiadas por un androide especial de seguridad. ¡Buena suerte en tu misión!
+D:it:Hai due minuti in ogni palazzo per distruggere tutti i container di armi col tuo carro armato, evitando i droidi di guardia. Quando tutti i container saranno distrutti, potrai dirigerti nel deposito munizioni dei ribelli. Ogni cinque palazzi ne troverai uno in cui vi sono armi nucleari, sorvegliate da droidi di sicurezza speciali. Buona fortuna per la tua missione!
+A:Michael Sentinella
+M:Nigel Grieve
+E:puzzle
+Y:1987
+F:games/ANARCHY.vsf.gz
+C:covers/ANARCHY-cover.png
+G:screens/ANARCHY-00.png
+G:screens/ANARCHY-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,
