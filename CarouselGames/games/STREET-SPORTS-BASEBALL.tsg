@@ -1,0 +1,17 @@
+T:Street Sports Baseball
+X:64,ntsc,truedrive,driveicon,sid6581
+D:en:The diamond could be a vacant lot or a parking lot and the home plate may be nothing more than a trash can lid, but the rules are the same. Three strikes and “yer out”. Four balls and you walk. Choose your team and play in every position. Choose a NEW game to select and name your team, or choose RANDOM to have a team picked for you. Play ball!
+D:fr:Le terrain de baseball ne peut être qu’une friche ou un parking et le marbre ne peut être qu’un simple couvercle de poubelle, peu importe, les règles sont les mêmes. Trois ratés et c’est la sortie. Quatre balles et ça roule. Choisissez votre équipe et jouez chaque poste. Choisissez “NEW GAME” et nommez votre équipe, ou bien laissez faire le hasard avec “RANDOM”. Let’s go !
+D:de:Der Diamant kann entweder eine Baulücke oder ein Parkplatz sein und das Home-Plate nichts anderes als ein Mülltonnendeckel, aber die Regeln sind die selben. Drei Streiks und „you are out“. Gehe mit vier Kugeln, wähle Dein Team und spiele auf jeder Position. Wähle ein neues Game und benenne Dein Team, oder wähle RANDOM, um ein Team für Dich per Zufallsgenerator auszuwählen. Spiele Ball!
+D:es:El diamante podría ser un lugar vacante o un estacionamiento, y el home plate podría no ser nada más que una tapa de basura, pero las reglas son las mismas. Tres strikes y “yer out” (estás fuera). Cuatro pelotas y caminas. Elije tu equipo y juega en todas las posiciones. Elije un NUEVO juego para seleccionar y dar un nombre a tu equipo, o elije ALEATORIO para que se te asigne un equipo. ¡Juega al béisbol!
+D:it:Il diamante potrebbe essere uno spazio libero o un parcheggio e la casa base potrebbe essere un bidone della spazzatura, ma le regole rimangono le stesse. Tre strike e “sei out”. Quattro palle e mandi in base. Scegli la tua squadra e gioca in tutte le posizioni. Seleziona Nuova partita e scegli un nome per la squadra, o seleziona Random perché il CPU scelga la squadra per te. Si gioca!
+A:Greg Omi
+M:
+E:sport
+Y:1987
+F:games/STREET-SPORTS-BASEBALL.vsf.gz
+C:covers/STREET-SPORTS-BASEBALL-cover.png
+G:screens/STREET-SPORTS-BASEBALL-00.png
+G:screens/STREET-SPORTS-BASEBALL-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,SP,JF,,,,JF,,
+J:1:JU,JD,JL,JR,JF,JF,JF,SP,JF,,,,JF,,

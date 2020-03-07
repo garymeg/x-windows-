@@ -1,0 +1,16 @@
+T:Super Pipeline
+X:64,pal,sid6581
+D:en:The objective of the game is to keep a series of pipes unblocked so that water may flow through them. Enemies include saboteurs that plug up the pipes, bugs that fall from the ceiling to kill the player, and a monster that patrols the pipe in later levels. The player is armed with a gun that can kill bugs, saboteurs, as well as the monster (but only from behind), and is followed by a helper that can remove plugs and kill the smaller bugs.
+D:fr:The objective of the game is to keep a series of pipes unblocked so that water may flow through them. Enemies include saboteurs that plug up the pipes, bugs that fall from the ceiling to kill the player, and a monster that patrols the pipe in later levels. The player is armed with a gun that can kill bugs, saboteurs, as well as the monster (but only from behind), and is followed by a helper that can remove plugs and kill the smaller bugs.
+D:de:The objective of the game is to keep a series of pipes unblocked so that water may flow through them. Enemies include saboteurs that plug up the pipes, bugs that fall from the ceiling to kill the player, and a monster that patrols the pipe in later levels. The player is armed with a gun that can kill bugs, saboteurs, as well as the monster (but only from behind), and is followed by a helper that can remove plugs and kill the smaller bugs.
+D:es:The objective of the game is to keep a series of pipes unblocked so that water may flow through them. Enemies include saboteurs that plug up the pipes, bugs that fall from the ceiling to kill the player, and a monster that patrols the pipe in later levels. The player is armed with a gun that can kill bugs, saboteurs, as well as the monster (but only from behind), and is followed by a helper that can remove plugs and kill the smaller bugs.
+D:it:L'obiettivo del gioco è mantenere una serie di tubature libere in modo che l'acqua possa fluire attraverso di esse. Tra i nemici sono inclusi i sabotatori che tappano i tubi, gli insetti che cadono dal soffitto per uccidere il giocatore e un mostro che pattuglia le tubature nei livelli successivi. Il giocatore è armato con una pistola che può uccidere insetti, sabotatori e anche il mostro (ma solo da dietro) ed è seguito da un aiutante che può rimuovere i tappi e uccidere i piccoli insetti.
+A:Andy Walker
+M:Paul Hodgson
+E:maze
+Y:1983
+F:games/SUPERPIPELINE.vsf.gz
+C:covers/SUPERPIPELINE-cover.png
+G:screens/SUPERPIPELINE-00.png
+G:screens/SUPERPIPELINE-01.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF

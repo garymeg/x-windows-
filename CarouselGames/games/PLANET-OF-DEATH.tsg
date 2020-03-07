@@ -1,0 +1,15 @@
+T:Planet of Death
+X:64,pal,sid6581
+D:en:Whilst exploring the outer reaches of the galaxy, you become stranded on a mysterious alien world - the Planet of Death. By using your wits, skill and limited resources you must escape by finding your now captured and disabled spaceship in this text adventure. Good luck!
+D:fr:En exploration aux confins de la galaxie, vous êtes coincé dans un monde extraterrestre mystérieux - la Planète de la Mort ! Comptez sur votre génie, votre talent et vos ressources limitées pour vous échapper et retrouver les parties de votre vaisseau démantelé dans cette aventure narrative. Bonne chance !
+D:de:Während Du die weitentfernten Galaxien erkundest, strandest Du in einer Welt mysteriöser Aliens - auf dem Planet des Todes. Gebrauche Deinen Verstand, Talente und begrenzte Mittel, um zu entkommen und Dein erbeutetes und untauglich gemachtes Raumschiff in diesem Textabenteuer zu finden. Viel Glück!
+D:es:Mientras exploras las zonas más alejadas de la galaxia, quedas varado en un misterioso mundo alienígena: el Planeta de la Muerte. Con tu ingenio, tu habilidad y tus recursos limitados, debes encontrar la nave espacial que te secuestraron e inhabilitaron para poder huir en esta aventura textual. ¡Buena suerte!
+D:it:Mentre esploravi le più remote galassie, ti sei perso su un pianeta alieno - il Pianeta della Morte. Facendo affidamento sulla tua prontezza, le tue abilità e le tue risorse limitate dovrai scappare, recuperando la tua nave spaziale, in questa avventura testuale. Buona fortuna!
+A:Richard Turner
+M:
+E:adventure
+Y:1984
+F:games/PLANET-OF-DEATH.vsf.gz
+C:covers/PLANET-OF-DEATH-cover.png
+G:screens/PLANET-OF-DEATH-01.png
+G:screens/PLANET-OF-DEATH-02.png

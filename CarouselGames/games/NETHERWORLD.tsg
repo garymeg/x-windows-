@@ -1,0 +1,16 @@
+T:Netherworld
+X:64,pal,noaudioscale,sid6581
+D:en:Trapped in another world, your only way back is to collect enough diamonds to buy your way out. Dodge acid bubbles, dragons and other creatures. Collect a set amount of diamonds within the time limit and then exit through a teleport. Some rocks can be moved, some can be changed into diamonds. Get extra time from an hour glass and avoid the goat’s head.
+D:fr:Perdu dans un monde inconnu, votre seul échappatoir est de ramasser assez de diamants pour acheter un ticket de retour. Esquivez les bulles d’acide, les dragons et autres monstres. Ramassez le nombre de diamants fixé dans le temps imparti et prenez ensuite le téléporteur. Quelques roches peuvent être déplacées, d’autres peuvent être transformées en diamant. Du temps supplémentaire peut être obtenu grâce au sablier et surtout, évitez la tête de chèvre.
+D:de:Während Du in einer anderen Welt gefangen bist, liegt die einzige Möglichkeit wieder nach Hause zu kommen darin, ausreichend Diamanten zu sammeln, um Dir gewissermaßen den Weg nach Hause zu „erkaufen“. Weiche den Säureblasen aus, dem Drachen und anderen Kreaturen. Sammle eine festgelegte Menge an Diamanten innerhalb des Zeitlimits und schreite dann durch einen Teleport. Einige Steine können bewegt werden und andere wiederum können in Diamanten verwandelt werden.
+D:es:Atrapado en otro mundo, tu único camino de regreso es recoger suficientes diamantes para poder comprar tu salida. Esquiva las burbujas ácidas, dragones y otras criaturas. Recoge una cantidad determinada de diamantes en un tiempo limitado y a continuación sal a través del telepuerto. Algunas rocas se pueden mover, algunas se pueden convertir en diamantes. Consigue tiempo extra con un reloj de arena y evita las cabezas de cabra.
+D:it:Intrappolato in un altro mondo, la tua sola via di uscita è raccogliere abbastanza diamanti per guadagnarti la fuga. Evita bolle d’acido, draghi e altre creature. Raccogli uno specifico numero di diamanti entro il limite di tempo e scappa col teletrasporto. Alcune rocce possono essere spostate, altre possono trasformarsi in diamanti. Guadagna tempo extra con la clessidra ed evita la testa di capra.
+A:Jukka Tapanimaki
+M:Jori Olkkonen
+E:shoot
+Y:1988
+F:games/NETHERWORLD.vsf.gz
+C:covers/NETHERWORLD-cover.png
+G:screens/NETHERWORLD-00.png
+G:screens/NETHERWORLD-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

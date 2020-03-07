@@ -1,0 +1,16 @@
+T:Sword of Fargoal
+X:64,ntsc,truedrive,driveicon,sid6581
+D:en:Someone’s stolen the all-important Sword of Fargoal! Go dungeon-diving in this fantasy role-playing adventure which will see you battling monsters for experience, collecting treasure and avoiding traps. Are you good enough to find the sword and vanquish the evil Umla?
+D:fr:Qui a volé l'épée légendaire de Fargoal? Explorez les donjons dans cette aventure fantastique où vous affronterez comme dans un jeu de rôle des monstres pour gagner en expérience, amasser les trésors tout en esquivant les pièges. Serez-vous assez doué pour retrouver l'épée et vaincre l'affreux Umla?
+D:de:Jemand hat Dein hochwichtiges Fargoal-Schwert gestohlen! In diesem Phantasie-Rollenspiel-Abenteuer triffst Du auf kämpfende Monster und musst Schätze sammeln und Fallen ausweichen. Bist Du gut genug, um das Schwert zu finden und den bösen Umla zu bezwingen?
+D:es:¡Alguien ha robado la importantísima espada de Fargoal! Adéntrate en las mazmorras en esta fantástica aventura de rol en el que tendrás que luchar contra monstruos para conseguir experiencia, recoger tesoros y evitar trampas. ¿Eres lo suficientemente bueno para encontrar la espada y vencer al malvado Umla?
+D:it:La Spada di Fargoal è stata rubata! Buttati nei sotterranei di questo gioco di ruolo fantasy: affronterai dei mostri per guadagnare punti esperienza, collezionerai tesori e dovrai evitare delle trappole. Riuscirai a trovare la spada e a distruggere il perfido Umla?
+A:Jeff McCord
+M:Jeff McCord
+E:adventure
+Y:1983
+F:games/SWORD-OF-FARGOAL.vsf.gz
+C:covers/SWORD-OF-FARGOAL-cover.png
+G:screens/SWORD-OF-FARGOAL-01.png
+G:screens/SWORD-OF-FARGOAL-02.png
+J:2*:JU,JD,JL,JR,JF,JF,H,S,JF,R,T,I,JF,,

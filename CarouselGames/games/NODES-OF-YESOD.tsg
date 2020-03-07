@@ -1,0 +1,16 @@
+T:Nodes of Yesod
+X:64,pal,sid6581
+D:en:Locate and destroy the alien Monolith hidden on the moon. Jump on platforms. Avoid aliens. Capture the mole at the start by jumping at him. Push UP to use the captured moon mole to destroy most aliens, or let him eat his way through walls to explore new locations. Collect a space helmet for extra lives. Push DOWN to plant gravity sticks to help you.
+D:fr:Trouvez et détruisez l’extraterrestre Monolith caché sur la lune. Sautez sur les plateformes. Evitez les extraterrestres. Capturez la taupe lunaire en lui sautant dessus, elle vous servira à tuer la plupart des monstres en appuyant sur HAUT ou bien laissez-la pour creuser une galerie et explorer de nouveaux endroits. Les casques vous donnent une vie supplémentaire. Appuyez sur BAS pour planter un baton de gravité pour vous aider.
+D:de:Finde und zerstöre den Alien Monolithen, der sich auf dem Mond versteckt. Springe auf Plattformen und hüte Dich vor den Aliens. Nimm zu Beginn den Maulwurf fest, indem Du Dich auf ihn stürzt. Drücke „nach OBEN“, um mit dem festgenommenen Mondmaulwurf die meisten Aliens zu zerstören, oder lasse ihn seinen Weg durch Wände gehen, um neue Locations zu erforschen. Sammle einen Weltraumhelm für Extraleben. Drücke „nach UNTEN“, um Gravity-Sticks als zusätzliche Hilfe zu erhalten.
+D:es:Localiza y destruye al extraterrestre Monolith que está escondido en la luna. Salta sobre las plataformas. Evita a los extraterrestres. Captura al topo al comienzo del juego saltando encima de él. Pulsa ARRIBA para utilizar el topo de la luna capturado para destrozar a la mayoría de los extraterrestres, o déjale que abra nuevos caminos a través de los muros para explorar nuevos lugares. Recoge el casco del espacio para conseguir vidas extra. Pulsa ABAJO para plantar palos de gravedad que te ayudarán.
+D:it:Scova e distruggi il monolite alieno nascosto sulla Luna. Salta sulle piattaforme. Evita gli alieni. Cattura la talpa prima di avventurarti, semplicemente saltandoci sopra. Premi SU per per usare la talpa lunare e distruggi gli alieni, o lascia che si faccia strada tra le mura per esplorare nuovi luoghi. Prendi gli elmetti spaziali per vite extra. Premi GIÙ per piantare i tuoi bastoni gravitazionali.
+A:Keith Robinson
+M:Fred Gray
+E:platform
+Y:1985
+F:games/NODES-OF-YESOD.vsf.gz
+C:covers/NODES-OF-YESOD-cover.png
+G:screens/NODES-OF-YESOD-00.png
+G:screens/NODES-OF-YESOD-01.png
+J:2*:JU,JD,JL,JR,JF,JF,5,SP,JF,,,,JF,,

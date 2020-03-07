@@ -1,0 +1,17 @@
+T:Trailblazer
+X:64,pal,sid6581
+D:en:Guide the ball down each course as quickly as possible. Each course has different challenges, obstacles and pitfalls. You are limited to seven jumps per course, and each course has a time limit. Any remaining time is added to the next course. It pays to be fast. A bonus game gives some respite, repeating movement patterns to win bonus points.
+D:fr:Guidez votre balle aussi vite que possible. Chaque course a son lot de défis, d’obstacles et de trous. Vous n’avez droit qu’à sept sauts par course qui a un compte à rebours. Tout temps supplémentaire est reporté sur la course suivante. La rapidité rapporte gros. Un niveau bonus vous donne un peu de répis en répétant certains mouvements pour des points bonus.
+D:de:Führe den Ball auf jeder Strecke so schnell wie möglich nach unten. Auf jeder Strecke warten verschiedene Herausforderungen, Hindernisse und Gefahren auf Dich. Du kannst maximal sieben Sprünge pro Strecke machen, inneralb eines bestimmten Zeitlimits. Die verbleibende Zeit wird auf die nächste Strecke angerechnet. Es lohnt sich also, schnell zu sein. Ein Bonusspiel lässt Dich kurz durchatmen, um dann durch wiederholende Bewegungsmuster Bonuspunkte zu gewinnen.
+D:es:Guía el balón por cada pista tan rápido como puedas. Cada pista tiene diferentes retos, obstáculos y trampas. Tienes un límite de siete saltos por cada pista, y en cada una tendrás un límite de tiempo. Cualquier tiempo restante se añadirá a la siguiente pista. Merece la pena ser rápido. Un juego de bonificación te puede dar un respiro, repitiendo patrones de movimiento para ganar los puntos de bonificación.
+D:it:Porta il pallone lungo il percorso il più veloce possible. Ciascun percorso presenta diversi ostacoli e insidie. Hai a disposizione sette salti per percorso, che ha a sua volta un tempo limite. Il tempo siduo di un percorso viene usato in quello successivo. Dunque, meglio essere veloci. La partita bonus ti darà un po’ di respiro; qui dovrai ripetere i movimenti per vincere punti bonus.
+A:Shaun Southern
+M:Shaun Southern
+E:puzzle
+Y:1986
+F:games/TRAILBLAZER.vsf.gz
+C:covers/TRAILBLAZER-cover.png
+G:screens/TRAILBLAZER-00.png
+G:screens/TRAILBLAZER-01.png
+J:1*:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,
+J:2:JU,JD,JL,JR,JF,JF,JF,JF,JF,,,,JF,,

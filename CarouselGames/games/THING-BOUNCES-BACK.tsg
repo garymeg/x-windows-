@@ -1,0 +1,16 @@
+T:Thing Bounces Back
+X:64,pal,sid6581
+D:en:Stop the goblin’s computer producing evil toys. Collect parts of a computer program, disk, tape, listing paper and ROM, scattered around the factory. Travel through a maze of underground pipes. Push FIRE to reverse your direction of travel and avoid the aliens.
+D:fr:Empêchez l’ordinateur du gobelin de créer ses jouets maléfiques. Rassemblez les parties d’un programme informatique, d’une disquette, d’une cassette, d’un papier listing et d’une ROM qui sont éparpillés dans une usine. Trouvez votre chemin dans un labyrinthe de tuyaux souterrains. Appuyez sur FEU pour inverser la direction du voyage afin d’éviter les ennemis.
+D:de:Halte Goblins Computer davon ab, böse Spiele zu produzieren. Sammle die Teile eines Computerprogramms, Festplatte, Tape, Aufzeichnungen und Speichermedien, die um die Fabrik herum verstreut liegen und reise durch ein Labyrinth aus unterirdischen Rohren. Drücke FIRE, um die Fahrtrichtung zu ändern und Aliens auszuweichen.
+D:es:Detén el ordenador del duende que produce juguetes malvados. Recoge las piezas del programa informático, disco, cinta, papel listado y ROM, dispersos por la fábrica. Viaja a través de un laberinto de tuberías subterráneas. Pulsa FUEGO para invertir tu dirección de viaje y evitar a los alienígenas.
+D:it:Impedisci al computer dei goblin di produrre aggeggi infernali. Raccogli programmi, dischi, nastri, elenchi e memorie presenti in tutta la fabbrica. Percorri un labirinto di tubi sotterranei. Premi FIRE per invertire la tua direzione di marcia ed evitare gli alieni.
+A:Jason Perkins
+M:Ben Daglish
+E:platform
+Y:1987
+F:games/THING-BOUNCES-BACK.vsf.gz
+C:covers/THING-BOUNCES-BACK-cover.png
+G:screens/THING-BOUNCES-BACK-00.png
+G:screens/THING-BOUNCES-BACK-01.png
+J:2*:JU,JD,JL,JR,JF,JF,JF,JF,JF,F1,Q,,JF,,
